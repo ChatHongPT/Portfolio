@@ -21,7 +21,7 @@ sections:
         사용자 경험을 중요하게 생각합니다.  
         기준에 부합하여 학교와 외부 프로젝트에 몰두한 경험이 있습니다.
         
-        ![가로 배너 이미지](/workspaces/JBNU_HONGSEOK.github.io/images/contact.jpg)  <!-- 텍스트 밑에 이미지 삽입 -->
+        ![가로 배너 이미지](images/contact.jpg)  <!-- 텍스트 밑에 이미지 삽입 -->
     design:
       columns: '1'
       spacing:
