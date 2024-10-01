@@ -11,7 +11,7 @@ sections:
         "호기심으로"
       text: |
         ## 개발에 몰입하는 개발자  
-        ### 유시온 입니다.
+        ### 최홍석 입니다.
         
         “노력은 기회를 만들고, 기회는 경험을 만들고, 경험은 지식을 만든다.”  
         
@@ -20,16 +20,10 @@ sections:
         
         사용자 경험을 중요하게 생각합니다.  
         기준에 부합하여 학교와 외부 프로젝트에 몰두한 경험이 있습니다.
+        
+        ![가로 배너 이미지](images/contact.jpg)  <!-- 텍스트 밑에 이미지 삽입 -->
     design:
       columns: '1'
-      image: 
-        filename: contact.jpg  # 배경 이미지 (교체 필요 시 파일명 변경)
-        filters:
-          brightness: 1
-        parallax: false
-        position: center
-        size: cover
-        text_color_light: true
       spacing:
         padding: ['20px', '0', '20px', '0']
 
@@ -52,8 +46,7 @@ sections:
         longitude: '127.13444961966684'
       directions: 전북대학교 공과대학 7호관에서 사무실 302호로 오세요.
       office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
+        - 'Every week from 6 p.m. to 12 p.m'
       appointment_url: 'https://calendly.com'
     
       autolink: true
