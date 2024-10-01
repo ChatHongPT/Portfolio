@@ -48,9 +48,6 @@ social:
     link: https://www.instagram.com/hongttochi/
   - icon: github
     icon_pack: fab
-    link: https://github.com/gyeongtaekang
-  - icon: github
-    icon_pack: fab
     link: https://github.com/ChatHongPT 
   - icon: LinkedIn
     icon_pack: fab
