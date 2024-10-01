@@ -5,7 +5,7 @@ main:
     weight: 200
   - parent: Introduction
     name: My Profile
-    url: /authors/최홍석/
+    url: /author/최홍석/
     weight: 210
   - parent: Introduction
     name: My Pet
