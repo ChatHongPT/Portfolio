@@ -1,24 +1,69 @@
-# Navigation Links
-#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
-#     desired widget in your `content/home/` folder.
-#   The weight parameter defines the order that the links will appear in.
-
 main:
-  - name: Tour
-    url: tour
-    weight: 10
-  - name: News
-    url: post
-    weight: 20
-  - name: People
+  # 소개 메뉴
+  - name: Introduction
     url: people
-    weight: 30
-  - name: Events
-    url: event
-    weight: 40
-  - name: Publications
+    weight: 200
+  - parent: Introduction
+    name: My Profile
+    url: /author/강경태/
+    weight: 210
+  - parent: Introduction
+    name: My Pet
+    url: people
+    weight: 220
+
+  # 관심사와 프로젝트 메뉴
+  - name: Passion & Work
     url: publication
-    weight: 50
-  - name: Contact
+    weight: 300
+  - parent: Passion & Work
+    name: My Interests
+    url: publication
+    weight: 310
+  - parent: Passion & Work
+    name: My Projects
+    url: field
+    weight: 320
+
+  # 캠퍼스 생활 메뉴
+  - name: University Life
+    url: publication
+    weight: 330
+  - parent: University Life
+    name: Achievements
+    url: /Campus Life/Awards/
+    weight: 340
+  - parent: University Life
+    name: Activities
+    url: /Campus Life/Activities/
+    weight: 350
+
+  # 알림 메뉴
+  - name: Updates
+    url: post
+    weight: 600
+  - parent: Updates
+    name: Notifications
+    url: notification
+    weight: 610
+  - parent: Updates
+    name: News
+    url: post
+    weight: 620
+  - parent: Updates
+    name: Events
+    url: event
+    weight: 630
+
+  # 정보 메뉴
+  - name: Info
+    url: information
+    weight: 800
+  - parent: Info
+    name: About Me
+    url: about
+    weight: 810
+  - parent: Info
+    name: Contact Me
     url: contact
-    weight: 60
+    weight: 820
