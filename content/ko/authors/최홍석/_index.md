@@ -18,7 +18,7 @@ role: Network Security Engineer
 
 # Organizations/Affiliations
 organizations:
-  - name: '<span style="color: initial; transition: color 0.3s;">BCG Security Lab</span>'
+  - name: BCG Security Lab
     url: 'https://sites.google.com/view/bcg-lab/main'
 
 
