@@ -22,15 +22,14 @@ sections:
         기준에 부합하여 학교와 외부 프로젝트에 몰두한 경험이 있습니다.
     design:
       columns: '1'
-      background:
-        image: 
-          filename: contact.jpg  # 배경 이미지 (교체 필요 시 파일명 변경)
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: cover
-          text_color_light: true
+      image: 
+        filename: contact.jpg  # 배경 이미지 (교체 필요 시 파일명 변경)
+        filters:
+          brightness: 1
+        parallax: false
+        position: center
+        size: cover
+        text_color_light: true
       spacing:
         padding: ['20px', '0', '20px', '0']
 
