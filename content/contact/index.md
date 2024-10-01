@@ -5,11 +5,26 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: contact
+  - block: markdown
     content:
       title: Contact
+      subtitle: ''
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
+        <h2 style="font-size:2.5em; color:#F0E68C;">"호기심으로"</h2>
+        <h1 style="font-size:3em; font-weight:bold;">개발에 몰입하는 개발자<br>유시온 입니다.</h1>
+        <p style="font-size:1.2em; color:#F0E68C;">“노력은 기회를 만들고, 기회는 경험을 만들고, 경험은 지식을 만든다.”</p>
+        <p style="font-size:1.1em;">라는 가치관으로 무엇이든 경험하려고 합니다.<br>꾸준한 노력 덕에 교내대회에서 수상하여 외부에서 다양한 부스 운영한 경험이 있습니다.</p>
+    design:
+      columns: '1'
+      background:
+        image: 
+          filename: contact.jpg  # 배경 이미지 추가
+          filters:
+            brightness: 1
+          parallax: false
+          position: center
+          size: cover
+          text_color_light: true
       email: suk924600@naver.com
       phone: 010-2421-9246
       address:
