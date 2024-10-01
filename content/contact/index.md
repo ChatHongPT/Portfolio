@@ -8,7 +8,7 @@ sections:
   - block: markdown
     content:
       title: |
-      "호기심으로"
+        "호기심으로"
       text: |
         ## 개발에 몰입하는 개발자  
         ### 유시온 입니다.
