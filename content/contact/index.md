@@ -10,21 +10,19 @@ sections:
       title: |
         <mark>"호기심으로"</mark>
       text: |
-        ## 개발에 몰입하는 개발자  
+        ### 개발에 몰입하는 개발자  
         ### 최홍석 입니다.
         
-        “노력은 기회를 만들고, 기회는 경험을 만들고, 경험은 지식을 만든다.”  
+        “노력은 기회를 만들고, 기회는 경험을 만들고, 경험은 지식을 만든다." {style="color: yellow"} 
         
         라는 가치관으로 무엇이든 경험하려고 합니다.  
         꾸준한 노력 덕에 교내대회에서 수상하여 외부에서 다양한 부스 운영한 경험이 있습니다.  
         
-        사용자 경험을 중요하게 생각합니다.  
+        사용자 경험을 중요하게 생각합니다. {style="color: yellow"}   
         기준에 부합하여 학교와 외부 프로젝트에 몰두한 경험이 있습니다.
         
     image: 
-      caption: 'Image credit: [**Unsplash**](https://unsplash.com/ko/%EC%82%AC%EC%A7%84/%EC%BD%94%EB%93%9C%EA%B0%80-%EC%9E%94%EB%9C%A9-%EB%93%A4%EC%96%B4-%EC%9E%88%EB%8A%94-%EC%BB%B4%ED%93%A8%ED%84%B0-%ED%99%94%EB%A9%B4-ieic5Tq8YMk)'
-      focal_point: 'Center'
-      
+      filename: coding.jpg
     design:
       columns: '1'
       spacing:
