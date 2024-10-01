@@ -3,33 +3,33 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: 강경태 # Website name
+title: 최홍석 # Website name
 image:
   filename: "me.jpg"
   caption: "Image credit: [**Unsplash**](https://unsplash.com)"
 baseURL: 'https://gyeongtaekang.github.io/' # Website URL
 
 # Site title and description
-title: "강경태 - 전북대학교 컴퓨터공학부 강경태의 개발 이야기"
-description: "전북대학교 컴퓨터공학부 강경태의 다양한 프로젝트와 연구 활동, 그리고 개발자 라이프를 공유하는 블로그입니다."
+title: "Profile"
+description: "Hongttochi의 Portfolio"
 
 # Keywords for search engines
-keywords: ["전북대학교", "컴퓨터공학", "개발자", "강경태", "웹 개발", "AI 연구", "개인 블로그"]
+keywords: ["전북대학교", "DevSecOps", "Network", "최홍석", "보안", "Security", "Cloud"]
 
 # Author name
-author: "강경태"
+author: "최홍석"
 
 # Open Graph settings (for social media previews)
 params:
-  description: "전북대학교 컴퓨터공학부 강경태의 개발 이야기와 다양한 프로젝트 소개"
-  author: "강경태"
+  description: "동네 보안 연구소"
+  author: "최홍석"
   ogImage: "me.jpg"  # 사이트를 대표하는 이미지의 경로
   ogType: "website"
-  ogTitle: "곰탱 - 전북대학교 컴퓨터공학부 강경태의 개발 이야기"
+  ogTitle: "동네 보안 연구소"
 
-instagram:
-  username: "gyeongtae1101"
-  url: "https://www.instagram.com/gyeongtae1101/"
+LinkedIn:
+  username: "최홍석"
+  url: "https://www.linkedin.com/in/%ED%99%8D%EC%84%9D-%EC%B5%9C-089b23302/"
 
 ############################
 ## LANGUAGE
