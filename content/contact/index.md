@@ -8,7 +8,7 @@ sections:
   - block: markdown
     content:
       title: |
-        "호기심으로"
+        <mark>"호기심으로"</mark>
       text: |
         ## 개발에 몰입하는 개발자  
         ### 최홍석 입니다.
