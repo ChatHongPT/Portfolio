@@ -1,28 +1,24 @@
 main:
-  # 소개 메뉴
-  - name: Introduction
+  # Introduce
+  - name: Introduce
     url: people
     weight: 200
-  - parent: Introduction
-    name: My Profile
+  - parent: Introduce
+    name: Developer Profile
     url: /author/최홍석/
     weight: 210
-  - parent: Introduction
-    name: My Pet
-    url: people
-    weight: 220
 
-  # 관심사와 프로젝트 메뉴
-  - name: Passion & Work
-    url: publication
+  # Achievement
+  - name: Acheievement
+    url: Qualifications
     weight: 300
-  - parent: Passion & Work
-    name: My Interests
-    url: publication
+  - parent: Acheievement
+    name: Certificate/Qualifications
+    url: Qualifications
     weight: 310
-  - parent: Passion & Work
-    name: My Projects
-    url: field
+  - parent: Archeievement
+    name: Awards
+    url: Awards
     weight: 320
 
   # 캠퍼스 생활 메뉴
@@ -55,15 +51,15 @@ main:
     url: event
     weight: 630
 
-  # 정보 메뉴
-  - name: Info
+  # Info
+  - name: Information
     url: information
     weight: 800
-  - parent: Info
+  - parent: Information
     name: About Me
     url: about
     weight: 810
   - parent: Info
-    name: Contact Me
+    name: Contact
     url: contact
     weight: 820
