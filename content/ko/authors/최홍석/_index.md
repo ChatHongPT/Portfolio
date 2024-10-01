@@ -42,7 +42,8 @@ education:
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
+# Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
+profiles:
   - icon: at-symbol
     url: 'mailto:suk924600@naver.com'
     label: E-mail Me
