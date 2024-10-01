@@ -15,7 +15,7 @@ sections:
         <p style="font-size:1.2em; color:#F0E68C;">“노력은 기회를 만들고, 기회는 경험을 만들고, 경험은 지식을 만든다.”</p>
         <p style="font-size:1.1em;">라는 가치관으로 무엇이든 경험하려고 합니다.<br>꾸준한 노력 덕에 교내대회에서 수상하여 외부에서 다양한 부스 운영한 경험이 있습니다.</p>
         <p style="font-size:1.1em;">사용자 경험을 중요하게 생각합니다.<br>기준에 부합하여 학교와 외부 프로젝트에 몰두한 경험이 있습니다.</p>
-        <img src="/images/contact.jpg" alt="배경 이미지" style="width:100%; height:auto;">
+        <img src="/workspaces/JBNU_HONGSEOK.github.io/images/contact.jpg" alt="배경 이미지" style="width:100%; height:auto;">
     design:
       columns: '1'
       spacing:
