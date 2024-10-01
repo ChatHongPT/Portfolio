@@ -23,7 +23,7 @@ sections:
         
     image: 
       caption: 'Image credit: [**Unsplash**](https://unsplash.com/ko/%EC%82%AC%EC%A7%84/%EC%BD%94%EB%93%9C%EA%B0%80-%EC%9E%94%EB%9C%A9-%EB%93%A4%EC%96%B4-%EC%9E%88%EB%8A%94-%EC%BB%B4%ED%93%A8%ED%84%B0-%ED%99%94%EB%A9%B4-ieic5Tq8YMk)'
-      focal_point: 'under'
+      focal_point: 'Center'
       
     design:
       columns: '1'
