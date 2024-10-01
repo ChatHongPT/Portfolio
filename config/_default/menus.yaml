@@ -16,7 +16,7 @@ main:
     name: Certificate/Qualifications
     url: Qualifications
     weight: 310
-  - parent: Archeievement
+  - parent: Acheievement
     name: Awards
     url: Awards
     weight: 320
