@@ -1,9 +1,9 @@
 ---
-title: Qualifications/Certificate
+title: Qualifications
 type: landing
 
 sections:
-  - block: Qualifications/Certificate
+  - block: Qualifications
     content:
       title: 수료증/자격증
       subtitle: 'Qualifications/Certificate'
