@@ -43,15 +43,17 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: instagram
-    icon_pack: fab
-    link: https://www.instagram.com/hongttochi/
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/ChatHongPT 
-  - icon: LinkedIn
-    icon_pack: fab
-    link: https://www.linkedin.com/in/%ED%99%8D%EC%84%9D-%EC%B5%9C-089b23302/
+  - icon: at-symbol
+    url: 'mailto:suk924600@naver.com'
+    label: E-mail Me
+  - icon: brands/facebook
+    url: https://www.facebook.com/profile.php?id=100008709304324
+  - icon: brands/instagram
+    url: https://www.instagram.com/hongttochi/
+  - icon: brands/github
+    url: https://github.com/ChatHongPT
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/%ED%99%8D%EC%84%9D-%EC%B5%9C-089b23302/
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'suk924600@naver.com'
