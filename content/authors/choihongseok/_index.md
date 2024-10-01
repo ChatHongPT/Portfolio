@@ -1,25 +1,25 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: 최홍석(CHOI HONG SEOK)
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: 최
+last_name: 홍석
 
 # Username (this should match the folder name)
 authors:
-  - 吳恩達
+  - choihongseok
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Network Security Engineer
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
-    url: ''
+  - name: BCG Security Lab
+    url: 'https://sites.google.com/view/bcg-lab/main'
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
