@@ -6,6 +6,11 @@ organization: 한국정보기술연구원(KITRI)
 
 저사양 환경에서 패킷을 모니터링하여 악성 패킷을 분류하고 차단하는 보안 장비를 개발하여 White-Hat School 2기 우수 프로젝트에 선정
 
+
+{{ $image := resources.Get "featured.jpg" }}
+{{ $resized := $image.Resize "150x" }} <!-- 150px 너비로 조정 -->
+<img src="{{ $resized.RelPermalink }}" alt="White-Hat School 2기 프로젝트 수상 이미지">
+
 <!--more-->
 
 전북대학교 IT 정보공학과, 건국대학교, 배제대학교, 조선대학교, 한밭대학교, 강릉원주대학교 소속 학생으로 구성된 "N/A"팀(최홍석, 함준형, 강성원, 김도현, 라민우, 임정훈, 지도환)이 "White-Hat School 2기 우수 프로젝트"에 선정되었다.

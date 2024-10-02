@@ -1,5 +1,5 @@
 ---
-title: awards
+title: 수상 경력
 
 # Listing view
 view: compact
