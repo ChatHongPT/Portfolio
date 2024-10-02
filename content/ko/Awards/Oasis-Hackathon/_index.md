@@ -1,23 +1,14 @@
 ---
-title: Oasis Hackathon(Application 부문)
-organization: 광주정보문화산업진흥원
-date: 2024-08-27
+title: Richard Hendricks Wins First Place in the Wowchemy Prize
+date: 2020-12-01
 ---
 
-오아시스 해커톤은 광주정보문화산업진흥원에서 주관하고 오아시스 대학생 연합이 주최하는 대회다. 이 해커톤은 호남지역 대학생들이 참석하여 호남지역 문제 해결을 위한 AI, ICT 서비스를 개발하는 5회 째 개최되고 있다. IJ20 팀은 SNS에서 유행하는 다트 게임 여행을 활용하여 호남지역 관광의 활성화를 위한 어플을 개발하여 최우수상을 받았다.
+Congratulations to Richard Hendricks for winning first place in the Wowchemy Prize.
+
 <!--more-->
 
-1. **다트 게임 기능**
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
 
-2. **주변 여행 코스 결과 기능**
+Sed eu dui nec ligula bibendum dapibus. Nullam imperdiet auctor tortor, vel cursus mauris malesuada non. Quisque ultrices euismod dapibus. Aenean sed gravida risus. Sed nisi tortor, vulputate nec quam non, placerat porta nisl. Nunc varius lobortis urna, condimentum facilisis ipsum molestie eu. Ut molestie eleifend ligula sed dignissim. Duis ut tellus turpis. Praesent tincidunt, nunc sed congue malesuada, mauris enim maximus massa, eget interdum turpis urna et ante. Morbi sem nisl, cursus quis mollis et, interdum luctus augue. Aliquam laoreet, leo et accumsan tincidunt, libero neque aliquet lectus, a ultricies lorem mi a orci.
 
-3. **코스 상세 정보 기능**
-
-4. **마이페이지 기능**
-
-5. **회원 정보 수정 기능**
-
-
-**링크**  
-[Oasis Hackathon 제출작](https://www.figma.com/design/zgJnR8RUeicGwNvybSDeu7/%ED%98%B8%EB%82%A8%E4%BA%BA-Applicat)
-[Oasis Hackathon 제출작](https://github.com/ChatHongPT/hackathon_project)
+Mauris dapibus sem vel magna convallis laoreet. Donec in venenatis urna, vitae sodales odio. Praesent tortor diam, varius non luctus nec, bibendum vel est. Quisque id sem enim. Maecenas at est leo. Vestibulum tristique pellentesque ex, blandit placerat nunc eleifend sit amet. Fusce eget lectus bibendum, accumsan mi quis, luctus sem. Etiam vitae nulla scelerisque, eleifend odio in, euismod quam. Etiam porta ullamcorper massa, vitae gravida turpis euismod quis. Mauris sodales sem ac ultrices viverra. In placerat ultrices sapien. Suspendisse eu arcu hendrerit, luctus tortor cursus, maximus dolor. Proin et velit et quam gravida dapibus. Donec blandit justo ut consequat tristique.
