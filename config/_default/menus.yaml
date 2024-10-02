@@ -8,18 +8,20 @@ main:
     url: /author/최홍석/
     weight: 210
 
+main:
   # Achievement
   - name: Achievement
     url: Awards
     weight: 300
   - parent: Achievement
     name: Qualifications
-    url: Qualifications
+    url: /Qualifications/  # URL을 절대 경로로 수정
     weight: 310
   - parent: Achievement
     name: Awards
-    url: Awards
+    url: /Awards/
     weight: 320
+
 
   # 캠퍼스 생활 메뉴
   - name: University Life
