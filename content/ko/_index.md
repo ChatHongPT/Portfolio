@@ -25,7 +25,21 @@ sections:
       spacing:
         padding: ['20px', '0', '20px', '0']
       css_class: fullscreen
-  
+
+  - block: markdown
+  content:
+    title: ⚒️ 기술스택
+    subtitle: ''
+    text: |
+      ![react](/assets/media/react.svg)
+      ![linux](/assets/media/linux.svg)
+      ![javascript](/assets/media/javascript.svg)
+      ![Kubernetes](/assets/media/Kubernetes.svg)
+      ![mysql](/assets/media/mysql.svg)
+  design:
+    columns: '1'
+
+
   - block: collection
     content:
       title: Latest News
