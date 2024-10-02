@@ -1,13 +1,15 @@
 ---
 title: AI 활용 아이디어 경진대회 대상
 
-location: 제주지역선도대학육성사업단
-location_url: 'https://blog.naver.com/jazzcafe84/223361826915?trackingCode=rss'
+event: 제주지역선도대학육성사업단
+event_url: https://blog.naver.com/jazzcafe84/223361826915?trackingCode=rss
 
-summary: 제주지역선도대학육성사업단
+location: 라마다 프라자 호텔
 
+summary: AI를 활용한 외래종 생물 판별 
 abstract: 과학기술정보통신부가 주최하고 (사)소프트웨어교육혁신센터가 주관한 국내 최대 규모 해커톤 경진대회로 국민생활 및 지역사회의 특수한 문제 해결을 위한 디지털 신기술 융합 솔루션 기반의 챌린지다.
 JBDev 팀이 출품한 "Elemental Coding Master(코딩 입문자를 위한 게임)" 콘텐츠는 Unity 엔진과 C# 프로그래밍 언어를 활용하여 만들었고, 다양한 코딩 작업을 수행하며, 프로그래밍 기본 원칙 및 로직을 습득하는 게임으로 심사위원의 좋은 평가를 받았다.
+
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
