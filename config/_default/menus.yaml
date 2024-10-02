@@ -13,12 +13,12 @@ main:
     url: Qualifications
     weight: 300
   - parent: Acheievement
-    name: Certificate/Qualifications
+    name: Achievement/Qualifications
     url: Qualifications
     weight: 310
   - parent: Acheievement
     name: Awards
-    url: Awards
+    url: Acheievement/Awards
     weight: 320
 
   # 캠퍼스 생활 메뉴
