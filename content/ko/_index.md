@@ -27,17 +27,32 @@ sections:
       css_class: fullscreen
 
 
+  
   - block: markdown
     content:
-      title: '📚 My Research'
-      subtitle: ''
-      text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+      title: '저는 _ _ _ _ 를 잘해요.'
+      text: ''
+    design:
+      columns: '1'
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
-        
+  - block: markdown
+    content:
+      title: 'NextJS'
+      text: 'JavaScript & TypeScript'
+    design:
+      columns: '1'
+
+  - block: markdown
+    content:
+      title: ''
+      text: |-
+        ES6 자바스크립트 문법을 사용합니다.
+        TypeScript 문법에 익숙합니다.
+        TypeGuard 문법을 프로젝트에 적용한 적이 있습니다.
+    design:
+      columns: '1'
+
+
   
   - block: markdown
     content:
