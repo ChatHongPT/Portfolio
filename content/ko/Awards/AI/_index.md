@@ -1,14 +1,12 @@
 ---
 title: AI 활용 아이디어 경진대회 대상
-organization: 제주지역선도대학육성사업단
-date: 2023-11-03
----
 
-과학기술정보통신부가 주최하고 (사)소프트웨어교육혁신센터가 주관한 국내 최대 규모 해커톤 경진대회로 국민생활 및 지역사회의 특수한 문제 해결을 위한 디지털 신기술 융합 솔루션 기반의 챌린지다.
-JBDev 팀이 출품한 "Elemental Coding Master(코딩 입문자를 위한 게임)" 콘텐츠는 Unity 엔진과 C# 프로그래밍 언어를 활용하여 만들었고, 다양한 코딩 작업을 수행하며, 프로그래밍 기본 원칙 및 로직을 습득하는 게임으로 심사위원의 좋은 평가를 받았다.
+location: 제주지역선도대학육성사업단
+location_url: 'https://blog.naver.com/jazzcafe84/223361826915?trackingCode=rss'
 
-<!--more-->
+summary: 제주지역선도대학육성사업단
 
+abstract: 
 1. **로그인 시스템**  
 사이트에 들어오는 모든 사용자는 로그인 시스템을 통해 인증을 받습니다. 기존 동아리원은 자신의 계정으로 로그인하여 동아리 내에서 진행되는 활동 내용과 공지를 확인할 수 있고, 새롭게 가입하려는 학생들은 회원가입 후 간단한 절차를 통해 사이트에 접근할 수 있습니다. 이를 통해 사이트를 사용하는 모든 사용자들은 자신의 권한에 따라 콘텐츠에 접근할 수 있습니다.
 
@@ -20,19 +18,6 @@ JBDev 팀이 출품한 "Elemental Coding Master(코딩 입문자를 위한 게�
 
 **프로젝트 의의**  
 이 사이트는 중앙동아리 CPU의 모든 동아리원과 신규 가입자들이 편리하고 유용하게 활용할 수 있는 온라인 플랫폼을 제공함으로써, 동아리 활동을 더욱 활성화하고 효율적으로 관리할 수 있도록 지원할 것입니다. 또한, 모든 공지사항과 활동 내역을 한 곳에 모아 볼 수 있어 동아리원의 참여도를 높이고, 새로운 멤버들의 동아리 참여를 적극적으로 독려할 수 있게 될 것입니다.
-
-**링크**  
-[CPU 동아리 사이트](https://lively-kataifi-3d76d7.netlify.app)
-
----
-title: AI 활용 아이디어 경진대회 대상
-
-location: 제주지역선도대학육성사업단
-location_url: 'https://blog.naver.com/jazzcafe84/223361826915?trackingCode=rss'
-
-summary: 제주지역선도대학육성사업단
-
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
