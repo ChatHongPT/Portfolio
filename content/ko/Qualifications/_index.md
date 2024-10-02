@@ -3,7 +3,7 @@ title: Qualifications
 type: landing
 
 sections:
-   -block: accomplishments
+  - block: accomplishments
     content:
       title: 수료증/자격증
       subtitle: 'Qualifications/Certificate'
