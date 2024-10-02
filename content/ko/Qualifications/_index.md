@@ -2,8 +2,8 @@
 title: Qualifications
 type: landing
 
-block: hero
 sections:
+   -block: accomplishments
     content:
       title: 수료증/자격증
       subtitle: 'Qualifications/Certificate'
