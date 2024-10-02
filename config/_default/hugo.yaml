@@ -11,7 +11,7 @@ baseURL: 'https://ChatHongPT.github.io/' # Website URL
 
 # Site title and description
 title: "동네 보안 연구소"
-description: "Hongttochi의 Portfolio"
+description: "동네 보안 연구소"
 
 # Keywords for search engines
 keywords: ["전북대학교", "DevSecOps", "Network", "최홍석", "보안", "Security", "Cloud"]
@@ -23,7 +23,7 @@ author: "최홍석"
 params:
   description: "동네 보안 연구소"
   author: "최홍석"
-  ogImage: "me.jpg"  # 사이트를 대표하는 이미지의 경로
+  ogImage: "avatar.jpg"  # 사이트를 대표하는 이미지의 경로
   ogType: "website"
   ogTitle: "동네 보안 연구소"
 
