@@ -33,10 +33,9 @@ header:
     enable: true
     align: r
     show_logo: true
-    show_language: ture
+    show_language: false
     show_day_night: true
     show_search: true
-    show_theme_chooser: true
     highlight_active_link: false
 
 # Site footer
