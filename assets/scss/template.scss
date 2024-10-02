@@ -14,3 +14,19 @@
   list-style-type: disc;
   margin-bottom: 30px; // 리스트 항목 하단 여백 추가
 }
+
+.compact-view .awards-item {
+  display: flex;
+  align-items: center;  /* 이미지와 텍스트를 수직 중앙 정렬 */
+  margin-bottom: 20px;  /* 각 수상 항목 간의 여백 */
+}
+
+.compact-view .awards-item img {
+  width: 120px;        /* 이미지 크기 조정 */
+  height: auto;        /* 이미지 비율 유지 */
+  margin-right: 20px;  /* 이미지와 텍스트 사이의 간격 */
+}
+
+.compact-view .awards-item-content {
+  flex-grow: 1;        /* 텍스트가 남은 공간을 차지하도록 설정 */
+}
