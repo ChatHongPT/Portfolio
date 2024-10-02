@@ -14,7 +14,7 @@ main:
     weight: 300
   - parent: Achievement
     name: Qualifications
-    url: Awards
+    url: Qualifications
     weight: 310
   - parent: Achievement
     name: Awards
@@ -59,7 +59,7 @@ main:
     name: About Me
     url: about
     weight: 810
-  - parent: Info
+  - parent: Information
     name: Contact
     url: contact
     weight: 820
