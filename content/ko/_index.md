@@ -29,8 +29,9 @@ sections:
   - block: markdown
     content:
       title: '**저는 _ _ _ _ 를 잘해요.**'
+      subtitle: '**NextJS**'
+      subtitle: '**JavaScript & TypeScript**'
       text: |
-        **NextJS, JavaScript & TypeScript**<br><br>
         ES6 자바스크립트 문법을 사용합니다.<br><br>
         TypeScript 문법에 익숙합니다.<br><br>
         TypeGuard 문법을 프로젝트에 적용한 적이 있습니다.
