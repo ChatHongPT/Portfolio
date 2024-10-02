@@ -26,21 +26,6 @@ sections:
         padding: ['20px', '0', '20px', '0']
       css_class: fullscreen
 
-  - block: markdown
-    content:
-      title: '기술스택'
-      subtitle: ''
-      text: |
-        - ![React](/assets/media/react.svg)
-        - ![Linux](/assets/media/linux.svg)
-        - ![JavaScript](/assets/media/javascript.svg)
-        - ![Kubernetes](/assets/media/kubernetes.svg)
-        - ![MySQL](/assets/media/mysql.svg)
-    design:
-      columns: '1'
-
-
-
   - block: collection
     content:
       title: 기술스택
