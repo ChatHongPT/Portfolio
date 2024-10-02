@@ -8,14 +8,14 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        동네 보안 연구소
       image:
-        filename: welcome.jpg
+        filename: welcome.gif
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        동네 보안 연구소에 오신 걸 환영합니다! 
+        해당 사이트는 최홍석의 개인 포트폴리오 사이트이며, 이 뿐만 아니라 다양한 보안 취약점에 대해서도 다루고 있습니다. 👨🏻‍💻
   
   - block: collection
     content:
