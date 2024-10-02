@@ -8,7 +8,6 @@ main:
     url: /authors/최홍석/
     weight: 210
 
-main:
   # Achievement
   - name: Achievement
     url: Awards
