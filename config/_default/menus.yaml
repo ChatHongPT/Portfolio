@@ -17,8 +17,8 @@ main:
     url: /Qualifications/  # URL을 절대 경로로 수정
     weight: 310
   - parent: Achievement
-    name: Awards
-    url: Awards
+    name: awards
+    url: /awards/
     weight: 320
 
 
