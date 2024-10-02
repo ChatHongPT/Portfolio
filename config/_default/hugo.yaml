@@ -7,10 +7,10 @@ title: 최홍석 # Website name
 image:
   filename: "me.jpg"
   caption: "Image credit: [**Unsplash**](https://unsplash.com)"
-baseURL: 'https://gyeongtaekang.github.io/' # Website URL
+baseURL: 'https://ChatHongPT.github.io/' # Website URL
 
 # Site title and description
-title: "Profile"
+title: "동네 보안 연구소"
 description: "Hongttochi의 Portfolio"
 
 # Keywords for search engines
