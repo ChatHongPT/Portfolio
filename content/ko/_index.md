@@ -27,21 +27,15 @@ sections:
       css_class: fullscreen
 
 
-  
-  - block: markdown
+   block: markdown
     content:
       title: '저는 _ _ _ _ 를 잘해요.'
-      text: ''
+      text: 'NextJS, JavaScript & TypeScript'
     design:
       columns: '1'
-
-  - block: markdown
-    content:
-      title: 'NextJS'
-      text: 'JavaScript & TypeScript'
-    design:
-      columns: '1'
-
+      spacing:
+        padding: ['20px', '0', '20px', '0']
+    
   - block: markdown
     content:
       title: ''
@@ -51,6 +45,8 @@ sections:
         TypeGuard 문법을 프로젝트에 적용한 적이 있습니다.
     design:
       columns: '1'
+      spacing:
+        padding: ['20px', '0', '20px', '0']
 
 
   
