@@ -15,7 +15,7 @@
   margin-bottom: 30px; // 리스트 항목 하단 여백 추가
 }
 
-.hero .content .text {
-  font-size: 10px; /* 텍스트 크기를 14px로 줄임 */
-  line-height: 1.5; /* 줄 간격 조절 */
+.hero .content p {
+  font-size: 14px !important;  /* 텍스트 크기를 강제로 줄임 */
+  line-height: 1.4 !important; /* 줄 간격도 함께 조절 */
 }

@@ -8,7 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        동네 보안 연구소
+       🔒 동네 보안 연구소 🔒
       image:
         filename: welcome.jpg
       text: |
