@@ -10,11 +10,11 @@ main:
 
   # Achievement
   - name: Achievement
-    url: Qualifications
+    url: Awards
     weight: 300
   - parent: Achievement
     name: Qualifications
-    url: Qualifications
+    url: Awards
     weight: 310
   - parent: Achievement
     name: Awards
