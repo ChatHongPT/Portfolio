@@ -26,32 +26,18 @@ sections:
         padding: ['20px', '0', '20px', '0']
       css_class: fullscreen
 
-  - block: collection
-    content:
-      title: 기술스택
-      subtitle: ''
-      text: ''
-      count: 5
-      items:
-        - title: React
-          image: reactjs.png
-          text: 리액트는 사용자 인터페이스를 구축하기 위한 자바스크립트 라이브러리입니다.
-        - title: Linux
-          image: linux.png
-          text: 리눅스는 오픈소스 운영체제입니다.
-        - title: JavaScript
-          image: javascript.png
-          text: 자바스크립트는 웹 개발에 사용되는 프로그래밍 언어입니다.
-        - title: Kubernetes
-          image: kubernetes.png
-          text: 쿠버네티스는 컨테이너화된 애플리케이션을 자동으로 배포, 관리합니다.
-        - title: MySQL
-          image: mysql.png
-          text: MySQL은 관계형 데이터베이스 관리 시스템입니다.
-    design:
-      view: card
-      columns: '1'
 
+  - block: markdown
+    content:
+      title: '📚 My Research'
+      subtitle: ''
+      text: |-
+        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+
+        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        
+        Please reach out to collaborate 😃
+        
   
   - block: markdown
     content:
