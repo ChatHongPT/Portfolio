@@ -1,14 +1,18 @@
 ---
-title: oasis
-date: 2020-12-01
+title: Oasis Hackathon(Application 개발 부문) - 최우수상
+date: 2024-08-27
+organization: 광주정보문화산업진흥원장
 ---
 
-Congratulations to Richard Hendricks for winning first place in the Wowchemy Prize.
+SNS에서 유행하는 다트 게임 여행을 활용하여 호남지역 관광의 활성화를 위한 어플 개발
+
 
 <!--more-->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
+전북대학교 IT 정보공학과 소속 학생으로 구성된 "IJ20"팀(최홍석, 허완, 이진규, 조대인)이 "제 5회 오아시스 해커톤 대회"에서 최우수상(상금 200만원)을 수상했다.
 
-Sed eu dui nec ligula bibendum dapibus. Nullam imperdiet auctor tortor, vel cursus mauris malesuada non. Quisque ultrices euismod dapibus. Aenean sed gravida risus. Sed nisi tortor, vulputate nec quam non, placerat porta nisl. Nunc varius lobortis urna, condimentum facilisis ipsum molestie eu. Ut molestie eleifend ligula sed dignissim. Duis ut tellus turpis. Praesent tincidunt, nunc sed congue malesuada, mauris enim maximus massa, eget interdum turpis urna et ante. Morbi sem nisl, cursus quis mollis et, interdum luctus augue. Aliquam laoreet, leo et accumsan tincidunt, libero neque aliquet lectus, a ultricies lorem mi a orci.
+ICT이노베이션스퀘어 확산사업 일환으로 추진 된 오아시스 해커톤 대회는 IT에 관심 있는 호남 지역 대학생의 커뮤니티 활성화를 위해, 대학생들이 주체적으로 개최하는 네트워킹 해커톤 대회로 2020년 시작해 올해로 5회째를 맞았다.
+ 
+이번 대회는 교육, 안전, 사회·환경, 관광, 창업 등 호남지역의 문제 해결을 위한 AI·ICT 서비스 개발을 주제로 진행됐다. 85명의 학생이 기획, 개발, 디자인 직군으로 구성된 팀을 이뤄 대회에 참가했다.
 
-Mauris dapibus sem vel magna convallis laoreet. Donec in venenatis urna, vitae sodales odio. Praesent tortor diam, varius non luctus nec, bibendum vel est. Quisque id sem enim. Maecenas at est leo. Vestibulum tristique pellentesque ex, blandit placerat nunc eleifend sit amet. Fusce eget lectus bibendum, accumsan mi quis, luctus sem. Etiam vitae nulla scelerisque, eleifend odio in, euismod quam. Etiam porta ullamcorper massa, vitae gravida turpis euismod quis. Mauris sodales sem ac ultrices viverra. In placerat ultrices sapien. Suspendisse eu arcu hendrerit, luctus tortor cursus, maximus dolor. Proin et velit et quam gravida dapibus. Donec blandit justo ut consequat tristique.
+IJ20 팀이 출품한 "호남人" 어플은 Kotlin 언어를 활용하여 만들었고, SNS에서 유행하는 다트 게임 여행을 활용하여 호남지역 관광의 활성화를 위한 어플을 개발하여 심사위원의 좋은 평가를 받았다.
