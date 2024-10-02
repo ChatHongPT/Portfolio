@@ -1,59 +1,67 @@
 ---
-title: AI 활용 아이디어 경진대회 대상
+title: Contact
+date: 2022-10-24
 
-event: 제주지역선도대학육성사업단
-event_url: https://blog.naver.com/jazzcafe84/223361826915?trackingCode=rss
+type: landing
 
-location: 라마다 프라자 호텔
+sections:
+  - block: markdown
+    content:
+      title: |
+        <mark>"호기심으로"</mark>
+      text: |
+        ### 개발에 몰입하는 개발자  
+        ### 최홍석 입니다.
+        
+        “노력은 기회를 만들고, 기회는 경험을 만들고, 경험은 지식을 만든다." 
+        
+        라는 가치관으로 무엇이든 경험하려고 합니다.  
+        꾸준한 노력 덕에 교내대회에서 수상하여 외부에서 다양한 부스 운영한 경험이 있습니다.  
+        
+        사용자 경험을 중요하게 생각합니다.  
+        기준에 부합하여 학교와 외부 프로젝트에 몰두한 경험이 있습니다.
+        
+    image: 
+      filename: images/coding.jpg
 
-summary: AI를 활용한 외래종 생물 판별 
-abstract: 과학기술정보통신부가 주최하고 (사)소프트웨어교육혁신센터가 주관한 국내 최대 규모 해커톤 경진대회로 국민생활 및 지역사회의 특수한 문제 해결을 위한 디지털 신기술 융합 솔루션 기반의 챌린지다.
-JBDev 팀이 출품한 "Elemental Coding Master(코딩 입문자를 위한 게임)" 콘텐츠는 Unity 엔진과 C# 프로그래밍 언어를 활용하여 만들었고, 다양한 코딩 작업을 수행하며, 프로그래밍 기본 원칙 및 로직을 습득하는 게임으로 심사위원의 좋은 평가를 받았다.
+    design:
+      columns: '1'
+      spacing:
+        padding: ['20px', '0', '20px', '0']
 
+  - block: contact
+    content:
+      title: Contact
+      text: |
+        연락을 원하시면 아래 정보를 확인하세요.
+      email: suk924600@naver.com
+      phone: 010-2421-9246
+      address:
+        street: 전북대학교 공과대학 7호관 302호
+        city: 전주시
+        region: 전라북도
+        postcode: '54896'
+        country: 대한민국
+        country_code: KO
+      coordinates:
+        latitude: '35.84601324617979'
+        longitude: '127.13444961966684'
+      directions: 전북대학교 공과대학 7호관에서 사무실 302호로 오세요.
+      office_hours:
+        - 'Monday 10:00 to 13:00'
+        - 'Wednesday 09:00 to 10:00'
+      appointment_url: 'https://calendly.com'
+    
+      autolink: true
+    
+      form:
+        provider: netlify
+        netlify:
+          captcha: false
+    design:
+      columns: '1'
+      background:
+        color: '#000000'  # 배경색 검정 (#000000)
+        text_color_light: true  # 텍스트를 밝은 색으로 설정
 
-# Talk start and end times.
-#   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
-all_day: false
-
-# Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
-
-authors: []
-tags: []
-
-# Is this a featured talk? (true/false)
-featured: false
-
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-  focal_point: Right
-
-url_code: ''
-url_pdf: ''
-url_slides: ''
-url_video: ''
-
-# Markdown Slides (optional).
-#   Associate this talk with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides:
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects:
 ---
-
-Slides can be added in a few ways:
-
-- **Create** slides using Wowchemy's [_Slides_](https://docs.hugoblox.com/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/writing-markdown-latex/).
-
-Further event details, including page elements such as image galleries, can be added to the body of this page.
