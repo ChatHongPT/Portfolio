@@ -1,6 +1,5 @@
 ---
 title: Qualifications
-type: landing
 
 sections:
   - block: accomplishments
