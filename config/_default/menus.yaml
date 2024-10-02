@@ -9,16 +9,16 @@ main:
     weight: 210
 
   # Achievement
-  - name: Acheievement
+  - name: Achievement
     url: Qualifications
     weight: 300
-  - parent: Acheievement
+  - parent: Achievement
     name: /Achievement/Qualifications/
     url: Qualifications
     weight: 310
-  - parent: Acheievement
+  - parent: Achievement
     name: Awards
-    url: /Acheievement/Awards/
+    url: /Achievement/Awards/
     weight: 320
 
   # 캠퍼스 생활 메뉴
