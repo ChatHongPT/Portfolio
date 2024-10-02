@@ -5,7 +5,7 @@
 
 title: 최홍석 # Website name
 image:
-  filename: "me.jpg"
+  filename: "avatar.jpg"
   caption: "Image credit: [**Unsplash**](https://unsplash.com)"
 baseURL: 'https://ChatHongPT.github.io/' # Website URL
 
