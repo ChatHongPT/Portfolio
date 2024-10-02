@@ -1,5 +1,5 @@
 ---
-title: Recent & Upcoming Events
+title: Awards
 
 # Listing view
 view: compact
