@@ -7,12 +7,9 @@ type: landing
 sections:
   - block: hero
     content:
-      title: |
-       동네 보안 연구소 🔒
       image:
         filename: welcome.jpg
-      text: |
-        동네 보안 연구소에 오신 걸 환영합니다👨🏻‍💻
+      
   
   - block: collection
     content:
