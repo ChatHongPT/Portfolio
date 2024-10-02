@@ -26,8 +26,7 @@ sections:
         padding: ['20px', '0', '20px', '0']
       css_class: fullscreen
 
-
-   block: markdown
+  - block: markdown
     content:
       title: '저는 _ _ _ _ 를 잘해요.'
       text: 'NextJS, JavaScript & TypeScript'
