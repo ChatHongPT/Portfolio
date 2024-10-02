@@ -2,6 +2,7 @@
 title: Qualifications
 type: landing
 
+block: hero
 sections:
     content:
       title: 수료증/자격증
