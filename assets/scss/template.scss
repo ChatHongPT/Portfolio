@@ -30,3 +30,7 @@
 .compact-view .awards-item-content {
   flex-grow: 1 !important;
 }
+
+.compact-view .awards-item {
+  background-color: red !important;  /* 테스트용으로 배경색 추가 */
+}
