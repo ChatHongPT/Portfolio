@@ -30,13 +30,13 @@ sections:
     content:
       title: '**저는 _ _ _ _ 를 잘해요.**'
       text: |-
-      '**NextJS, JavaScript & TypeScript**'  # 굵게 처리
+      '**NextJS, JavaScript & TypeScript**'<br><br>  # 굵게 처리
       ES6 자바스크립트 문법을 사용합니다.<br><br>
 
       TypeScript 문법에 익숙합니다.<br><br>
 
       TypeGuard 문법을 프로젝트에 적용한 적이 있습니다.
-      
+
     design:
       columns: '1'
       spacing:
