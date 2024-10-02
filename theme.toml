@@ -39,3 +39,7 @@ features = ["page builder", "widgets", "themes", "search", "research publication
 [author]
   name = "George Cushen"
   homepage = "https://georgecushen.com"
+
+[mediaTypes]
+  [mediaTypes."image/svg+xml"]
+    suffixes = ["svg"]
