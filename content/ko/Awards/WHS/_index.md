@@ -1,15 +1,10 @@
 ---
 title: White-Hat School 2기 우수 프로젝트 수상
 date: 2024-09-26
-organization: 한국정보기술연구원(KITRI)
+organizations: 한국정보기술연구원(KITRI)
 ---
 
 저사양 환경에서 패킷을 모니터링하여 악성 패킷을 분류하고 차단하는 보안 장비를 개발하여 White-Hat School 2기 우수 프로젝트에 선정
-
-
-{{ $image := resources.Get "featured.jpg" }}
-{{ $resized := $image.Resize "150x" }} <!-- 150px 너비로 조정 -->
-<img src="{{ $resized.RelPermalink }}" alt="White-Hat School 2기 프로젝트 수상 이미지">
 
 <!--more-->
 
