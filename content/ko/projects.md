@@ -15,7 +15,7 @@ sections:
       text: 안녕
       filters:
         folders:
-          - Projects
+          - ㅔrojects
     design:
       view: article-grid
       fill_image: false

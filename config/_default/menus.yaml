@@ -28,10 +28,10 @@ main:
     weight: 330
   - parent: Project
     name: Projects
-    url: /projects/
+    url: projects/
 
   # 알림 메뉴
-  - name: Updates
+  - name: Security Info
     url: post
     weight: 600
   - parent: Updates
