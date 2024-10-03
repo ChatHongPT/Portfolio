@@ -12,10 +12,10 @@ sections:
   - block: collection
     content:
       title: PROJECT
-      text: ''
+      text: 안녕
       filters:
         folders:
-          - projects
+          - Projects
     design:
       view: article-grid
       fill_image: false
