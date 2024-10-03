@@ -45,19 +45,19 @@ education:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 
 social:
-  - icon: custom/mail
+  - icon: /media/icons/mail.svg
     icon_pack: custom
     link: 'mailto:suk924600@naver.com'
-  - icon: custom/instagram
+  - icon: /media/icons/instagram.svg
     icon_pack: custom
     link: https://www.instagram.com/hongttochi/
-  - icon: custom/linkedin
+  - icon: /media/icons/linkedin.svg
     icon_pack: custom
     link: https://www.linkedin.com/in/%ED%99%8D%EC%84%9D-%EC%B5%9C-089b23302/
-  - icon: custom/github
+  - icon: /media/icons/github.svg
     icon_pack: custom
     link: https://github.com/ChatHongPT
-  - icon: custom/facebook
+  - icon: /media/icons/facebook.svg
     icon_pack: custom
     link: https://www.facebook.com/profile.php?id=100008709304324
 
