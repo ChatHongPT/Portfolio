@@ -26,9 +26,11 @@
 }
 
 h1.mb-0 strong {
-  color: yellow; /* Changes only the specific text within this heading */
-  text-align: left;  // Align the text to the left.
+  display: block; /* strong 태그를 블록 요소로 변경 */
+  color: yellow;  /* 특정 strong 텍스트만 노란색으로 변경 */
+  text-align: left; /* 블록 요소로 변경 후 왼쪽 정렬 적용 */
 }
+
 
 
 
