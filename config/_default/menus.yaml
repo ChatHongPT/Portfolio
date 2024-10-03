@@ -32,8 +32,8 @@ main:
     url: post
     weight: 600
   - parent: Security Info
-    name: Notifications
-    url: notification
+    name: Security Seminar
+    url: publication
     weight: 610
   - parent: Security Info
     name: News
