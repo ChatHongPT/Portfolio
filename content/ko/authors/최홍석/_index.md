@@ -52,7 +52,7 @@ social:
     link: https://www.linkedin.com/in/%ED%99%8D%EC%84%9D-%EC%B5%9C-089b23302/
   - icon: github
     icon_pack: fab
-    link: https://www.linkedin.com/in/%ED%99%8D%EC%84%9D-%EC%B5%9C-089b23302/
+    link: https://github.com/ChatHongPT
     
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
