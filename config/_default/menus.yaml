@@ -26,7 +26,7 @@ main:
   - name: Project
     url: publication
     weight: 330
-  - parent: University Life
+  - parent: Project
     name: Projects
     url: /projects/
 
