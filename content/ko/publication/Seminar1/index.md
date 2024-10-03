@@ -21,8 +21,7 @@ publication_types: ["article-journal"]
 publication: "*Journal of Source Themes, 1*(1)"
 publication_short: ""
 
-abstract: 
-Prototype 개념<br><br>
+abstract: Prototype 개념<br><br>
 JavaScript는 객체 지향 언어로, 다른 프로그래밍 언어와 달리 클래스 개념 대신 Prototype을 이용해 상속을 구현합니다.
 모든 객체는 최상위 객체를 프로토타입으로 참조하여 상속과 비슷한 기능을 수행합니다. <br><br>
 Prototype-Pollution 정의<br><br>
@@ -40,7 +39,7 @@ CVE-2018-16487에 대한 실습을 통해, 공격자가 POST Exploit Payload를 
 대응 방안<br><br>
 lodash 패키지의 버전을 4.17.19 이상으로 업데이트.<br><br>
 사용자 입력 값을 철저히 검증.<br><br>
-Object.freeze()와 Object.create(null)을 사용해 객체의 불변성을 보장하고 프로토타입 오염을 방지.<br><br>
+Object.freeze()와 Object.create(null)을 사용해 객체의 불변성을 보장하고 프로토타입 오염을 방지.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
