@@ -1,10 +1,10 @@
 ---
-title: 수상 경력
+title: 🏆 수상 경력
 
 # Listing view
 view: compact
 
-# Optional banner image (relative to `assets/media/` folder).
+# Optional header image (relative to `assets/media/` folder).
 banner:
   caption: ''
   image: ''
