@@ -60,3 +60,4 @@ email: 'suk924600@naver.com'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
+---
