@@ -36,7 +36,6 @@ sections:
         TypeScript 문법에 익숙합니다.<br><br>
         TypeGuard 문법을 프로젝트에 적용한 적이 있습니다.
     design:
-      css_class: 'title-left-align'
       columns: '1'
       spacing:
         padding: ['20px', '0', '20px', '0']
