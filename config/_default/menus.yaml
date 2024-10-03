@@ -31,15 +31,15 @@ main:
   - name: Security Info
     url: post
     weight: 600
-  - parent: Updates
+  - parent: Security Info
     name: Notifications
     url: notification
     weight: 610
-  - parent: Updates
+  - parent: Security Info
     name: News
     url: post
     weight: 620
-  - parent: Updates
+  - parent: Security Info
     name: Events
     url: event
     weight: 630
