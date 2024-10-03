@@ -43,18 +43,23 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
-profiles:
-  - icon: at-symbol
-    url: 'mailto:suk924600@naver.com'
-    label: E-mail Me
-  - icon: brands/facebook
-    url: https://www.facebook.com/profile.php?id=100008709304324
-  - icon: brands/instagram
-    url: https://www.instagram.com/hongttochi/
-  - icon: brands/github
-    url: https://github.com/ChatHongPT
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/in/%ED%99%8D%EC%84%9D-%EC%B5%9C-089b23302/
+
+social:
+  - icon: custom/mail
+    icon_pack: custom
+    link: 'mailto:suk924600@naver.com'
+  - icon: custom/instagram
+    icon_pack: custom
+    link: https://www.instagram.com/hongttochi/
+  - icon: custom/linkedin
+    icon_pack: custom
+    link: https://www.linkedin.com/in/%ED%99%8D%EC%84%9D-%EC%B5%9C-089b23302/
+  - icon: custom/github
+    icon_pack: custom
+    link: https://github.com/ChatHongPT
+  - icon: custom/facebook
+    icon_pack: custom
+    link: https://www.facebook.com/profile.php?id=100008709304324
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'suk924600@naver.com'
