@@ -23,12 +23,9 @@ main:
 
 
   # 프로젝트
-  - name: Project
-    url: publication
-    weight: 330
-  - parent: Project
-    name: Projects
+  - name: Projects
     url: projects/
+    weight: 330
 
   # 알림 메뉴
   - name: Security Info
