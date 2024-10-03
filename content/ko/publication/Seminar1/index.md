@@ -21,26 +21,21 @@ publication_types: ["article-journal"]
 publication: "*Journal of Source Themes, 1*(1)"
 publication_short: ""
 
-abstract: | 
-Prototype 개념<br><br>
-JavaScript는 객체 지향 언어로, 다른 프로그래밍 언어와 달리 클래스 개념 대신 Prototype을 이용해 상속을 구현합니다.
-모든 객체는 최상위 객체를 프로토타입으로 참조하여 상속과 비슷한 기능을 수행합니다. <br><br>
-Prototype-Pollution 정의<br><br>
-공격자가 JS 언어의 프로토타입 체인을 이용해 웹 서버를 공격하는 기법입니다.<br><br>
-객체의 프로토타입을 조작하여 예상치 못한 속성을 다른 객체에 주입하는 방식입니다.<br><br>
-Prototype-Pollution의 3가지 패턴<br><br>
-속성 설정 - 사용자 입력을 통해 객체에 새로운 속성을 추가하는 방식.<br><br>
-객체 병합 - 재귀 병합 함수를 악용하여 프로토타입을 오염시키는 방법.<br><br>
-객체 복사 - clone 함수 등을 사용해 객체를 복제할 때 프로토타입 오염이 발생할 수 있음.<br><br>
-CVE-2018-16487<br><br>
-Lodash 라이브러리에서 발견된 취약점으로, merge() 함수의 부적절한 검증으로 인해 프로토타입 오염이 발생할 수 있습니다.<br><br>
-이 취약점은 권한 상승 또는 원격 코드 실행(RCE) 공격으로 이어질 수 있습니다.<br><br>
-실습 내용<br><br>
-CVE-2018-16487에 대한 실습을 통해, 공격자가 POST Exploit Payload를 사용해 user 객체의 canDelete 속성을 true로 설정하는 방법을 다루고 있습니다.<br><br>
-대응 방안<br><br>
-lodash 패키지의 버전을 4.17.19 이상으로 업데이트.<br><br>
-사용자 입력 값을 철저히 검증.<br><br>
-Object.freeze()와 Object.create(null)을 사용해 객체의 불변성을 보장하고 프로토타입 오염을 방지.
+abstract: |
+  Prototype 개념
+  
+  JavaScript는 객체 지향 언어로, 다른 프로그래밍 언어와 달리 클래스 개념 대신 Prototype을 이용해 상속을 구현합니다. 모든 객체는 최상위 객체를 프로토타입으로 참조하여 상속과 비슷한 기능을 수행합니다.
+
+  Prototype-Pollution 정의
+  
+  공격자가 JS 언어의 프로토타입 체인을 이용해 웹 서버를 공격하는 기법입니다. 객체의 프로토타입을 조작하여 예상치 못한 속성을 다른 객체에 주입하는 방식입니다.
+
+  Prototype-Pollution의 3가지 패턴:
+  
+  - 속성 설정: 사용자 입력을 통해 객체에 새로운 속성을 추가하는 방식.
+  - 객체 병합: 재귀 병합 함수를 악용하여 프로토타입을 오염시키는 방법.
+  - 객체 복사: clone 함수 등을 사용해 객체를 복제할 때 프로토타입 오염이 발생할 수 있음.
+
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
