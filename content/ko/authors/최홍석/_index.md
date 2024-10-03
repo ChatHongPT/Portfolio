@@ -6,10 +6,6 @@ title: 최홍석
 first_name: Hong Seok
 last_name: Choi
 
-# Username (this should match the folder name)
-authors:
-  - admin
-
 # Is this the primary user of the site?
 superuser: true
 
@@ -45,32 +41,22 @@ education:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 
 social:
-  - icon: /media/icons/mail.svg
-    icon_pack: custom
+  - icon: envelope
+    icon_pack: fas
     link: 'mailto:suk924600@naver.com'
-  - icon: /media/icons/instagram.svg
-    icon_pack: custom
+  - icon: instagram
+    icon_pack: fab
     link: https://www.instagram.com/hongttochi/
-  - icon: /media/icons/linkedin.svg
-    icon_pack: custom
+  - icon: linkedin
+    icon_pack: fab
     link: https://www.linkedin.com/in/%ED%99%8D%EC%84%9D-%EC%B5%9C-089b23302/
-  - icon: /media/icons/github.svg
-    icon_pack: custom
-    link: https://github.com/ChatHongPT
-  - icon: /media/icons/facebook.svg
-    icon_pack: custom
-    link: https://www.facebook.com/profile.php?id=100008709304324
+  - icon: github
+    icon_pack: fab
+    link: https://www.linkedin.com/in/%ED%99%8D%EC%84%9D-%EC%B5%9C-089b23302/
+    
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'suk924600@naver.com'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-  - human
-
-
----
