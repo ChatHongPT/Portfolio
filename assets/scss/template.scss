@@ -25,14 +25,9 @@
   font-weight: bold;  // 글자 굵기
 }
 
-.section-heading {
-  color: #FFD700;  // This is a hex code for a golden/yellow color.
-  text-align: left;  // Align the text to the left.
-  font-weight: bold;
-}
-
 h1.mb-0 strong {
   color: yellow; /* Changes only the specific text within this heading */
+  text-align: left;  // Align the text to the left.
 }
 
 
