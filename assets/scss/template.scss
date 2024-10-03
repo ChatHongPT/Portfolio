@@ -25,10 +25,11 @@
   font-weight: bold;  // 글자 굵기
 }
 
-.title-left-align {
-  text-align: left;  // 왼쪽 정렬
-  color: #FFD700;    // 노란색 (Gold)
-  font-weight: bold; // 굵게
+.universal-wrapper h1 {
+  color: #FFD700;  // Yellow color
+  text-align: left;  // Align to the left
+  font-weight: bold;
 }
+
 
 
