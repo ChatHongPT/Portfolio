@@ -21,7 +21,8 @@ publication_types: ["article-journal"]
 publication: "*Journal of Source Themes, 1*(1)"
 publication_short: ""
 
-abstract: Prototype 개념<br><br>
+abstract: | 
+Prototype 개념<br><br>
 JavaScript는 객체 지향 언어로, 다른 프로그래밍 언어와 달리 클래스 개념 대신 Prototype을 이용해 상속을 구현합니다.
 모든 객체는 최상위 객체를 프로토타입으로 참조하여 상속과 비슷한 기능을 수행합니다. <br><br>
 Prototype-Pollution 정의<br><br>
