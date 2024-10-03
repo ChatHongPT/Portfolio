@@ -1,5 +1,5 @@
 ---
-title: 'projects'
+title: 'Projects'
 date: 2024-05-19
 type: landing
 
@@ -15,7 +15,7 @@ sections:
       text: 안녕
       filters:
         folders:
-          - ㅔrojects
+          - projects
     design:
       view: article-grid
       fill_image: false
