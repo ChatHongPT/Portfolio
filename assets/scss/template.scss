@@ -31,6 +31,11 @@ h1.mb-0 strong {
   text-align: left; /* 블록 요소로 변경 후 왼쪽 정렬 적용 */
 }
 
+div.col-12 strong{
+  display: block;
+  font-size: 2rem;
+}
+
 
 
 
