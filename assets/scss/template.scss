@@ -15,15 +15,6 @@
   margin-bottom: 30px; // 리스트 항목 하단 여백 추가
 }
 
-/* 라이트 모드 스타일 */
-body.light-mode {
-  background-color: #ffffff;
-  color: #000000;
+.cta-group {
+  justify-content: center;
 }
-
-/* 다크 모드 스타일 */
-body.dark-mode {
-  background-color: #121212;
-  color: #ffffff;
-}
-

@@ -22,18 +22,13 @@ main:
     weight: 320
 
 
-  # 캠퍼스 생활 메뉴
-  - name: University Life
+  # 프로젝트
+  - name: Project
     url: publication
     weight: 330
   - parent: University Life
-    name: Achievements
-    url: /Campus Life/Awards/
-    weight: 340
-  - parent: University Life
-    name: Activities
-    url: /Campus Life/Activities/
-    weight: 350
+    name: Projects
+    url: /projects/
 
   # 알림 메뉴
   - name: Updates
