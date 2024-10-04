@@ -54,6 +54,15 @@ div.col-12 strong{
   object-fit: cover; /* 이미지가 카드 영역을 완전히 덮도록 설정하면서 비율을 유지 */
 }
 
+/* 제목을 중앙으로 정렬 */
+h1 {
+  text-align: center;
+}
+
+/* 메타데이터도 중앙 정렬 */
+.article-metadata {
+  text-align: center;
+}
 
 
 
