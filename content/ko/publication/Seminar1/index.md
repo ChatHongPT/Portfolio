@@ -1,16 +1,15 @@
 ---
-title: "An example journal article"
+title: "Protoy"
 authors:
-- admin
-- Robert Ford
+- 최홍석
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+date: "2024-08-21T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2024-08-21T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -18,23 +17,24 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "BCG Lab Seminar"
 publication_short: ""
 
 abstract: |
-  Prototype 개념
+ 
+  **Prototype 개념**
   
   JavaScript는 객체 지향 언어로, 다른 프로그래밍 언어와 달리 클래스 개념 대신 Prototype을 이용해 상속을 구현합니다. 모든 객체는 최상위 객체를 프로토타입으로 참조하여 상속과 비슷한 기능을 수행합니다.
 
-  Prototype-Pollution 정의
+  **Prototype-Pollution 정의**
   
   공격자가 JS 언어의 프로토타입 체인을 이용해 웹 서버를 공격하는 기법입니다. 객체의 프로토타입을 조작하여 예상치 못한 속성을 다른 객체에 주입하는 방식입니다.
 
-  Prototype-Pollution의 3가지 패턴:
+  **Prototype-Pollution의 3가지 패턴**
   
-  - 속성 설정: 사용자 입력을 통해 객체에 새로운 속성을 추가하는 방식.
-  - 객체 병합: 재귀 병합 함수를 악용하여 프로토타입을 오염시키는 방법.
-  - 객체 복사: clone 함수 등을 사용해 객체를 복제할 때 프로토타입 오염이 발생할 수 있음.
+  - **속성 설정**: 사용자 입력을 통해 객체에 새로운 속성을 추가하는 방식.
+  - **객체 병합**: 재귀 병합 함수를 악용하여 프로토타입을 오염시키는 방법.
+  - **객체 복사**: clone 함수 등을 사용해 객체를 복제할 때 프로토타입 오염이 발생할 수 있음.
 
 
 # Summary. An optional shortened abstract.
