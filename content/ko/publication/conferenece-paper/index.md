@@ -23,7 +23,7 @@ publishDate: '2024-04-03T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *BCG LABe*
+publication: In *BCG LABx*
 publication_short: In *BCG*
 
 abstract: |
