@@ -96,7 +96,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: file:///Users/hongttochi/Downloads/Slow%20HTTP%20DoS%20%EA%B3%B5%EA%B2%A9%EC%97%90%20%EB%8C%80%ED%95%9C%20%EB%B6%84%EC%84%9D%20-%20%EC%B5%9C%ED%99%8D%EC%84%9D.pdf
+url_pdf: ''
 url_code: 'https://github.com/sahilchaddha/rudyjs'
 url_dataset: ''
 url_poster: ''
