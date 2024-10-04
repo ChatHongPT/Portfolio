@@ -24,7 +24,7 @@ main:
 
   # 프로젝트
   - name: Projects
-    url: projects/
+    url: /project/
     weight: 330
 
   # 알림 메뉴
