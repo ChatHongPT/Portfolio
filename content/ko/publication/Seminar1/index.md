@@ -83,7 +83,7 @@ abstract: |
   -첫 번째 줄에 GET이나 POST 같은 정상적인 메소드가 아닌 slowhttptest 명령어의 -t 옵션으로 지정한 값이 메소드로 들어감
 
   **[대응 방안]**
-  
+
   -연결 Time out 설정으로 일정 시간 이상 연속된 데이터를 보내지 않는 접속자에 대해 차단
 
 # Summary. An optional shortened abstract.
@@ -96,8 +96,8 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_pdf: file:///Users/hongttochi/Downloads/Slow%20HTTP%20DoS%20%EA%B3%B5%EA%B2%A9%EC%97%90%20%EB%8C%80%ED%95%9C%20%EB%B6%84%EC%84%9D%20-%20%EC%B5%9C%ED%99%8D%EC%84%9D.pdf
+url_code: 'https://github.com/sahilchaddha/rudyjs'
 url_dataset: ''
 url_poster: ''
 url_project: ''
