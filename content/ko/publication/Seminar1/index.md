@@ -48,7 +48,9 @@ abstract: |
   -개발자의 보안 설정 오류나 App, 프레임워크가 최신 버전이 아닐 경우 취약점을 활용한 공격 기법 중 하나
 
   **[실습]**
+
   -bee-box IP [희생자] : 192.168.92.137
+
   -Kali-Linux IP [공격자] : 192.168.43.178
 
   **▶공격 시나리오**
@@ -60,6 +62,7 @@ abstract: |
   5) 칼리 리눅스에 slowhttptes 도구를 설치한다.
 
   **[테스트할 공격 기법 선택]**
+
   -H : Slowloris 공격
   -B : RUDY 공격
   -R : Apache Killer 공격
@@ -69,6 +72,7 @@ abstract: |
   -> slowhttptest -B -t [임의의 문자열] -c 4000 -u http://[bee-box IP]:80
 
   **[공격 기본 설정]**
+
   -t  : 요청 시 사용할 메소드 값 (default: Slow HTTP Attack인 경우 GET / Slow HTTP Body Attack인 경우 POST)
   -c : 공격 대상에 연결할 연결 개수 설정 (default : 50)
   -u : 공격대상의 url 설정
@@ -79,7 +83,8 @@ abstract: |
   -첫 번째 줄에 GET이나 POST 같은 정상적인 메소드가 아닌 slowhttptest 명령어의 -t 옵션으로 지정한 값이 메소드로 들어감
 
   **[대응 방안]**
-  - 연결 Time out 설정으로 일정 시간 이상 연속된 데이터를 보내지 않는 접속자에 대해 차단
+  
+  -연결 Time out 설정으로 일정 시간 이상 연속된 데이터를 보내지 않는 접속자에 대해 차단
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
