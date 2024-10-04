@@ -108,7 +108,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'content/ko/publication/conferenece-paper/conference-paper.pdf'
+url_pdf: '/Users/hongttochi/JBNU_HONGSEOK.github.io/content/ko/publication/_index.md'
 url_code: 'https://github.com/sahilchaddha/rudyjs'
 url_dataset: ''
 url_poster: ''
