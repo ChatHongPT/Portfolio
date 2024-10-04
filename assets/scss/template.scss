@@ -41,6 +41,25 @@ div.col-12 strong{
   fill: currentColor; /* 아이콘 색상을 텍스트 색상에 맞추도록 설정 */
 }
 
+/* 카드 모서리를 둥글게 하고, overflow를 숨깁니다 */
+.card-simple {
+  border-radius: 15px; /* 모서리 둥글게 */
+  overflow: hidden; /* 이미지가 둥근 모서리 밖으로 넘치지 않도록 */
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* 그림자를 추가하여 시각적 효과 */
+}
+
+/* 배너 이미지가 보이도록 z-index 설정 */
+.article-banner {
+  z-index: 1; /* 배너 이미지가 다른 요소 위에 보이도록 */
+  object-fit: cover; /* 이미지가 카드 내에서 잘 맞도록 */
+}
+
+/* 배너를 감싸는 컨테이너가 잘 보이도록 overflow를 조정합니다 */
+.img-hover-zoom {
+  position: relative;
+  z-index: 0;
+  overflow: hidden; /* 배너가 잘 보이도록 설정 */
+}
 
 
 
