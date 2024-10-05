@@ -1,9 +1,9 @@
 ---
-title: Richard Hendricks Wins First Place in the Wowchemy Prize
+title: 2024년 금융권 버그바운티 실시 안내
 date: 2024-05-01
 ---
 
-2024년 금융권 버그바운티 실시
+금융보안원에서 실시하는 2024년 금융권 버그바운티 대회
 
 <!--more-->
 
