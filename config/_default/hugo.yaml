@@ -4,9 +4,6 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: 최홍석 # Website name
-image:
-  filename: "avatar.jpg"
-  caption: "Image credit: [**Unsplash**](https://unsplash.com)"
 baseURL: 'https://Hongttochi.github.io/' # Website URL
 
 # Site title and description
