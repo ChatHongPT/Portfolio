@@ -11,9 +11,7 @@ date: 2024-07-14
 external_link: ""
 
 image:
-  caption: DDoS Mitigation
-  focal_point: Smart
-  filename: featured.png
+  focal_point: 'top'
 
 links:
   - icon: github
