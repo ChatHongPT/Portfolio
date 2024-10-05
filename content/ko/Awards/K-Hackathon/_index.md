@@ -1,14 +1,14 @@
 ---
-title: Richard Hendricks Wins First Place in the Wowchemy Prize
-date: 2020-12-01
+title: K-HACKATHON 11(Application 개발 부문) - 우수상(한국콘텐츠학회장상)
+date: 2023-11-03
+organizations: 과학기술정보통신부
 ---
 
-Congratulations to Richard Hendricks for winning first place in the Wowchemy Prize.
-
+Elemental Coding Master(코딩 입문자를 위한 게임) 콘텐츠 개발
 <!--more-->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
+전북대학교 IT 정보공학과, 컴퓨터공학부 소속 학생으로 구성된 "JBDev"팀(최홍석, 허완, 홍건하)이 "제11회 전국 K-HACKATHON 11 대회"에서 우수상(상금 200만원)을 수상했다.
 
-Sed eu dui nec ligula bibendum dapibus. Nullam imperdiet auctor tortor, vel cursus mauris malesuada non. Quisque ultrices euismod dapibus. Aenean sed gravida risus. Sed nisi tortor, vulputate nec quam non, placerat porta nisl. Nunc varius lobortis urna, condimentum facilisis ipsum molestie eu. Ut molestie eleifend ligula sed dignissim. Duis ut tellus turpis. Praesent tincidunt, nunc sed congue malesuada, mauris enim maximus massa, eget interdum turpis urna et ante. Morbi sem nisl, cursus quis mollis et, interdum luctus augue. Aliquam laoreet, leo et accumsan tincidunt, libero neque aliquet lectus, a ultricies lorem mi a orci.
+과학기술정보통신부가 주최하고 (사)소프트웨어교육혁신센터가 주관한 국내 최대 규모 해커톤 경진대회로 국민생활 및 지역사회의 특수한 문제 해결을 위한 디지털 신기술 융합 솔루션 기반의 챌린지다.
 
-Mauris dapibus sem vel magna convallis laoreet. Donec in venenatis urna, vitae sodales odio. Praesent tortor diam, varius non luctus nec, bibendum vel est. Quisque id sem enim. Maecenas at est leo. Vestibulum tristique pellentesque ex, blandit placerat nunc eleifend sit amet. Fusce eget lectus bibendum, accumsan mi quis, luctus sem. Etiam vitae nulla scelerisque, eleifend odio in, euismod quam. Etiam porta ullamcorper massa, vitae gravida turpis euismod quis. Mauris sodales sem ac ultrices viverra. In placerat ultrices sapien. Suspendisse eu arcu hendrerit, luctus tortor cursus, maximus dolor. Proin et velit et quam gravida dapibus. Donec blandit justo ut consequat tristique.
+JBDev 팀이 출품한 "Elemental Coding Master(코딩 입문자를 위한 게임)" 콘텐츠는 Unity 엔진과 C# 프로그래밍 언어를 활용하여 만들었고, 다양한 코딩 작업을 수행하며, 프로그래밍 기본 원칙 및 로직을 습득하는 게임으로 심사위원의 좋은 평가를 받았다.
