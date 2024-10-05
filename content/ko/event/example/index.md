@@ -13,19 +13,19 @@ address:
   country: 대한민국
 
 summary: Cyber Kill Chain 분석
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+abstract: 사이버 공격 프로세스를 분석하여 각 공격 단계에서 조직에 가해지는 위협 요소 및 공격자의 목적, 활동 등을 분석하여 위협요소를 완화, 제거하는 선제적 방어 기법
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+date: '2021-11-11T13:00:00Z'
+date_end: '2021-11-11T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2021-11-11T00:00:00Z'
 
 authors: []
-tags: []
+tags: ['CyberKillChain', 'Security']
 
 # Is this a featured talk? (true/false)
 featured: false
