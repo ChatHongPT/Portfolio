@@ -27,6 +27,7 @@ url_video: ""
 
 slides: ""
 ---
+<div class="justify-text">
 
 ### 호남지역 관광 활성화를 위한 다트 게임 기반 여행 어플 개발
 

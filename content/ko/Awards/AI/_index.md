@@ -4,7 +4,6 @@ date: 2024-02-02
 organization: 제주지역선도대학육성사업단
 ---
 
-<div class="justify-text">
 AI를 활용한 어종 판별 프로그램 '어종 찾어종'
 
 <!--more-->

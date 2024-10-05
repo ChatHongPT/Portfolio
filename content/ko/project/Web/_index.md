@@ -27,6 +27,8 @@ url_video: ""
 
 slides: ""
 ---
+<div class="justify-text">
+
 ## 한국정보기술연구원 화이트햇 스쿨 2기 프로젝트 
 (저사양 환경에서의 DDoS 공격 완화 보안 장비 개발)
 
