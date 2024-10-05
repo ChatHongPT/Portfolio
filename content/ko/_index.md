@@ -62,22 +62,18 @@ sections:
 
   - block: collection
     content:
-      title: Project
-      subtitle: 
-      text:
-      count: 5
-      filters:
-        author: ''
-        category: ''
-        exclude_featured: false
-        publication_type: ''
-        tag: ''
+      id: section-1
+      title: Notifications & News
+      count: 3
       offset: 0
       order: desc
-      page_type: project
+      filters:
+        folders:
+          - Qualifications
+          - Awards
     design:
-      view: card
-      columns: '1'
+      view: compact
+      columns: '2'
 
   - block: collection
     content:
