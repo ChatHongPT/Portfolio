@@ -44,7 +44,7 @@ sections:
     content:
       title: '**저는 _ _ _ _ 를 잘해요.**'
       text: |
-        **ReactJS<br><br>
+        **ReactJS**<br><br>
         Recoil을 이용하여 전역 상태관리를 할 수 있습니다
         함수형 컴포넌트 문법에 익숙합니다.<br><br>
         React hooks를 능숙하게 사용합니다.<br><br><br><br>
