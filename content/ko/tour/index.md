@@ -8,12 +8,12 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 Welcome to the group
-        content: Take a look at what we're working on...
+      - title: ☁️ 나에게 맞는 Cloud 학습
+        content: Cloud Skills Boost로 나와 내 팀의 기술 역량을 높이세요. 초보자부터 전문가 수준에 이르기까지 목표 달성에 필요한 자격증과 교육을 찾아보세요.
         align: center
         background:
           image:
-            filename: coders.jpg
+            filename: cloud.jpg
             filters:
               brightness: 0.7
           position: right
@@ -28,8 +28,8 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: World-Class Semiconductor Lab
-        content: 'Just opened last month!'
+      - title: 언더그라운드 해킹 그룹 BCG LAB에 당신을 초대합니다!
+        content: 'BCG LAB의 많은 해커들과 함께해서 빛낼 수 있습니다.'
         align: right
         background:
           image:
