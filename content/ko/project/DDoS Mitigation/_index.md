@@ -27,16 +27,16 @@ url_video: ""
 
 slides: ""
 ---
-### 한국정보기술연구원 화이트햇 스쿨 2기 프로젝트 (저사양 환경에서의 DDoS 공격 완화 보안 장비 개발)
+## 한국정보기술연구원 화이트햇 스쿨 2기 프로젝트 (저사양 환경에서의 DDoS 공격 완화 보안 장비 개발)
 
 이 프로젝트는 **eBPF/XDP**와 **BGP**를 활용하여 저사양 환경에서도 **DDoS 공격**을 실시간으로 탐지하고 악성 패킷을 차단할 수 있는 **보안 장비**를 개발하는 데 중점을 두었습니다. 또한, **ELK 스택**을 이용해 모니터링 웹 페이지를 구축하여 실시간 네트워크 상태를 확인할 수 있습니다.
 
-#### 주요 기능:
+### 주요 기능:
 - **eBPF/XDP 기반 패킷 필터링**: 실시간으로 악성 패킷을 탐지하고, 저사양 환경에서도 효율적으로 처리
 - **BGP 라우팅**: 네트워크 경로를 동적으로 변경하여 DDoS 공격을 완화
 - **ELK 스택 모니터링 웹 페이지**: Elasticsearch, Logstash, Kibana를 활용한 실시간 모니터링 대시보드 제공
 
-#### 프로젝트 목표:
+### 프로젝트 목표:
 1. **DDoS 공격 완화**: 저사양 환경에서도 높은 효율을 자랑하는 패킷 모니터링 및 차단 시스템 구축
 2. **실시간 네트워크 모니터링**: ELK 스택을 통해 실시간으로 네트워크 상태를 모니터링하고 공격을 탐지
 3. **네트워크 안정성 보장**: BGP를 이용한 라우팅 변경으로 네트워크의 안정성을 극대화
@@ -67,14 +67,14 @@ slides: ""
 
 [홈페이지](https://ddosmitigation.github.io/)
 
-#### flowchart:
+### flowchart:
 
 ![flowchart](flowchart.png)
 
-#### WBS(Work Breakdown Structure):
+### WBS(Work Breakdown Structure):
 ![Project WBS](wbs.png)
 
-#### Project
+### Project
 ![WHS 2nd Project](project.png)
 
 
