@@ -1,5 +1,5 @@
 ---
-title: Security Analysis
+title: 🖥️ Security Conference
 
 # Listing view
 view: 

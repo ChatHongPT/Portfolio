@@ -1,6 +1,6 @@
 ---
 title: Oasis Hackathon Project
-summary: 호남지역 관광 활성화를 위한 다트 게임 기반 여행 어플 개발
+summary: Development of a dart game-based travel application to revitalize tourism in Honam area
 tags: 
     - Kotlin
     - Android Studio
@@ -10,7 +10,7 @@ date: 2024-07-14
 external_link: ""
 
 image:
-  caption: 호남人 Application Screenshot
+  caption: Honam Human Application Screenshot
   focal_point: Smart
   filename: featured.png
 
@@ -29,24 +29,24 @@ slides: ""
 ---
 <div class="justify-text">
 
-### 호남지역 관광 활성화를 위한 다트 게임 기반 여행 어플 개발
+### Development of a dart game-based travel application to revitalize tourism in Honam area
 
-이 프로젝트는 SNS에서 유행하는 **다트 게임**을 활용해 호남지역의 관광을 활성화하는 **창의적인 어플리케이션**을 개발하는 것을 목표로 합니다. 사용자는 다트 게임을 통해 무작위로 관광지를 선택하고, 이를 여행 계획에 반영할 수 있습니다.
+The project aims to develop a **creative application** that activates tourism in the Honam region by utilizing the **dart game** that is popular on social media. Users can randomly select tourist destinations through the dart game and reflect them in their travel plans.
 
-#### 주요 기능:
-- **다트 게임으로 여행지 선택**: 게임을 통해 무작위로 관광지를 선정하여 신나는 여행 계획 세우기
-- **관광지 추천 시스템**: 호남지역의 주요 명소를 사용자의 취향에 맞춰 추천
-- **SNS 공유 기능**: 사용자들이 자신의 여행 경험을 SNS에 쉽게 공유할 수 있도록 지원
+#### Key Features:
+- **Choose a destination with a dart game**: Create exciting travel plans by randomly selecting tourist destinations through the game
+- **Tourist recommendation system**: Recommend major attractions in Honam region to suit users' tastes
+- **Social media sharing capability**: Help users easily share their travel experiences on social media
 
-#### 프로젝트 목표:
-1. **호남지역 관광 활성화**: 지역 관광에 새로운 트렌드를 반영하여 방문자 유도
-2. **게임을 통한 참여 유도**: 다트 게임 요소를 추가하여 사용자들의 재미와 참여도를 극대화
-3. **커뮤니티 형성**: SNS와의 연동을 통해 사용자들 간의 커뮤니티를 구축
+#### Project Objectives:
+1. **Enhance tourism in Honam**: Encouraging visitors by reflecting new trends in local tourism
+2. **Induce participation through games**: Add dart game elements to maximize user fun and engagement
+3. **Community formation**: Building a community among users through interworking with SNS
 
 #### Figma UI
 
-![호남人 Figma UI](image.png "Figma UI")
+![Honam Human Figma UI](image.png "Figma UI")
 
-[Figma 호남人 Application UI](https://www.figma.com/proto/zgJnR8RUeicGwNvybSDeu7/%ED%98%B8%EB%82%A8%E4%BA%BA-Application-Project?node-id=0-1&t=5VVK146w1fVzKsnI-1)
+[Figma Honam Human Application UI](https://www.figma.com/proto/zgJnR8RUeicGwNvybSDeu7/%ED%98%B8%EB%82%A8%E4%BA%BA-Application-Project?node-id=0-1&t=5VVK146w1fVzKsnI-1)
 
-> 자세한 UI는 Figma에서 확인하세요!
+> Check out Figma for more UI!
