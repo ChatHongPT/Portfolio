@@ -16,9 +16,10 @@ marketing:
   seo:
     site_type: Organization
     local_business_type: ''
-    org_name: ''
-    description: '보안을 연구하는 대학생의 연구소'
+    org_name: '최홍석의 보안 연구소'
+    description: '전북대학교 컴퓨터공학부 최홍석의 동네 보안 연구소입니다.'
     twitter: 'GetResearchDev'
+    keywords: ['전북대학교', '컴퓨터공학', '보안', '클라우드', '네트워크', '전북대 최홍석', '전북대학교 최홍석', 'DevSecOps']
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -71,7 +72,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/ChatHongPT/JBNU_HONGSEOK.github.io'
     content_dir: content
     branch: main
   avatar:
@@ -116,3 +117,11 @@ extensions:
 publications:
   date_format: January 2006
   citation_style: apa
+
+# Personal information
+
+name: 최홍석
+role: 학생
+organization: 전북대학교 IT정보공학과
+organization_url: 'https://csai.jbnu.ac.kr/csai/index.do'
+email: 'suk924600@naver.com'
