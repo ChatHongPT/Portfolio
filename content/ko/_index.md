@@ -65,7 +65,7 @@ sections:
     content:
       slides:
         - title: ☁️ 나에게 맞는 Cloud 학습
-          content: BCG Cloud Skills Boost로 나와 내 팀의 기술 역량을 높이세요.
+          content: <br><br>BCG Cloud Skills Boost로 나와 내 팀의 기술 역량을 높이세요.
           align: center
           background:
             image:
@@ -81,7 +81,7 @@ sections:
             url: ../contact/
 
         - title: 👨🏻‍💻당신을 위한 언더그라운드 해킹그룹 HS 랩에 초대합니다.
-          content: 당신의 잠재력을 HS 랩의 많은 해커들과 함께해서 빛낼 수 있습니다.
+          content: <br><br>당신의 잠재력을 HS 랩의 많은 해커들과 함께해서 빛낼 수 있습니다.
           align: center
           background:
             image:
@@ -92,7 +92,7 @@ sections:
             color: '#000'
 
         - title: 🔐 BCG LAB 연구실원 모집
-          content: 💡 본 연구실에서 보안에 관심과 열정이 있는 연구생들을 모집합니다.
+          content: <br><br>💡 본 연구실에서 보안에 관심과 열정이 있는 연구생들을 모집합니다.
           align: center
           background:
             image:
@@ -107,26 +107,4 @@ sections:
       is_fullscreen: false
       loop: true
       interval: 3000
-
-  - block: collection
-    content:
-      title: Latest Preprints
-      text: ""
-      count: 5
-      filters:
-        folders:
-          - publication
-        publication_type: 'article'
-    design:
-      view: citation
-      columns: '1'
-
-  - block: markdown
-    content:
-      title:
-      subtitle:
-      text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
-    design:
-      columns: '1'
 ---
