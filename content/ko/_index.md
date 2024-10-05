@@ -62,7 +62,7 @@ sections:
 
   - block: collection
     content:
-      title: Project
+      title: 👨🏻‍💻 프로젝트
       subtitle: 
       text:
       count: 5
@@ -81,7 +81,7 @@ sections:
 
   - block: collection
     content:
-      title: Awards
+      title: 🏆 수상 경력
       subtitle: 
       text:
       count: 5
