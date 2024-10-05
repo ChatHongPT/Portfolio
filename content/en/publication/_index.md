@@ -1,5 +1,5 @@
 ---
-title: 📜 세미나 자료
+title: 📜 Seminar Data
 
 # Listing view
 view: citation

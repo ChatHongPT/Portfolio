@@ -5,7 +5,7 @@ type : landing
 sections:
   - block: accomplishments
     content:
-      title: Qualifications/Certificate
+      title: Certificate
       text: ''
       items:
         - title: Completed 2nd White Hat School
