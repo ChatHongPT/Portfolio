@@ -1,6 +1,7 @@
 ---
 title: Pronunciation Recognition AI
 summary: 구음장애 발음 특성을 고려한 개인화된 음성 인식 프로그램 개발
+type: "project"
 tags:
   - Kotlin
   - Android Studio

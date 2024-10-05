@@ -1,6 +1,7 @@
 ---
 title: Oasis Hackathon Project
 summary: 호남지역 관광 활성화를 위한 다트 게임 기반 여행 어플 개발
+type: "project"
 tags: 
     - Kotlin
     - Android Studio

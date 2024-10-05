@@ -1,10 +1,11 @@
 ---
 title: DDoS Mitigation
-summary: 저사양 환경에서의 DDoS 공격 완화 보안 장비 개발    
+summary: 저사양 환경에서의 DDoS 공격 완화 보안 장비 개발  
+type: "project"  
 tags:
-  - Kotlin
-  - Android Studio
-  - Dart Game
+  - eBPF/XDP
+  - BGP
+  - Cloud
 date: 2024-07-14
 
 external_link: ""
