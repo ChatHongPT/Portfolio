@@ -39,26 +39,11 @@ features = ["page builder", "widgets", "themes", "search", "research publication
 [author]
   name = "George Cushen"
   homepage = "https://georgecushen.com"
-
+  
 [light]
-  # Primary
-  primary = "#2962ff"
-
-  # Menu
-  menu_primary = "rgb(247, 250, 252)"
-  menu_text = "#34495e"
-  menu_text_active = "#2962ff"
-  menu_title = "#2b2b2b"
-
-  # Home sections
-  home_section_odd = "rgb(247, 250, 252)"
-  home_section_even = "rgb(247, 250, 252)"
+background = "#ffffff"
+text = "#000000"
 
 [dark]
-  primary = "#bbdefb"
-  link = "#bbdefb"
-  link_hover = "#bbdefb"
-  background = "rgb(26, 32, 44)"
-  home_section_odd = "rgb(26, 32, 44)"
-  home_section_even = "rgb(26, 32, 44)"
-  menu_primary = "rgb(26, 32, 44)"
+background = "#000000"
+text = "#ffffff"
