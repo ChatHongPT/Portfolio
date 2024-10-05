@@ -31,7 +31,7 @@ sections:
 
   - block: contact
     content:
-      title: Contact
+      title: 📞 contact
       text: |
         연락을 원하시면 아래 정보를 확인하세요.
       email: suk924600@naver.com
