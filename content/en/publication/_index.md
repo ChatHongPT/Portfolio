@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: 📜 세미나 자료
 
 # Listing view
 view: citation

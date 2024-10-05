@@ -1,8 +1,8 @@
 ---
-title: Latest News
+title: Security Analysis
 
 # Listing view
-view: compact
+view: 
 
 # Optional banner image (relative to `assets/media/` folder).
 banner:

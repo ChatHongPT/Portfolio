@@ -1,5 +1,5 @@
 ---
-title: 👮🏻‍♀️ 보안 분석 자료
+title: 🏆 수상 경력
 
 # Listing view
 view: compact

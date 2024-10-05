@@ -31,7 +31,7 @@ sections:
 
   - block: contact
     content:
-      title: Contact
+      title: 📞 contact
       text: |
         연락을 원하시면 아래 정보를 확인하세요.
       email: suk924600@naver.com
@@ -46,7 +46,7 @@ sections:
       coordinates:
         latitude: '35.84601324617979'
         longitude: '127.13444961966684'
-      directions: 전북대학교 공과대학 7호관에서 사무실 302호로 오세요.
+      directions: 전북대학교 공과대학 7호관에서 사무실 302호
       office_hours:
         - 'Monday 10:00 to 13:00'
         - 'Wednesday 09:00 to 10:00'
