@@ -1,5 +1,5 @@
 ---
-title: Latest News
+title: Security Analysis
 
 # Listing view
 view: 

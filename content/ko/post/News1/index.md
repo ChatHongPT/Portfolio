@@ -1,14 +1,48 @@
 ---
 title: Richard Hendricks Wins First Place in the Wowchemy Prize
-date: 2020-12-01
+date: 2024-05-01
 ---
 
-Congratulations to Richard Hendricks for winning first place in the Wowchemy Prize.
+2024년 금융권 버그바운티 실시
 
 <!--more-->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
+<2024년 금융권 버그바운티 실시 안내>
 
-Sed eu dui nec ligula bibendum dapibus. Nullam imperdiet auctor tortor, vel cursus mauris malesuada non. Quisque ultrices euismod dapibus. Aenean sed gravida risus. Sed nisi tortor, vulputate nec quam non, placerat porta nisl. Nunc varius lobortis urna, condimentum facilisis ipsum molestie eu. Ut molestie eleifend ligula sed dignissim. Duis ut tellus turpis. Praesent tincidunt, nunc sed congue malesuada, mauris enim maximus massa, eget interdum turpis urna et ante. Morbi sem nisl, cursus quis mollis et, interdum luctus augue. Aliquam laoreet, leo et accumsan tincidunt, libero neque aliquet lectus, a ultricies lorem mi a orci.
+금융보안원이 2024년 금융권 버그바운티(집중신고제)를 실시합니다!
 
-Mauris dapibus sem vel magna convallis laoreet. Donec in venenatis urna, vitae sodales odio. Praesent tortor diam, varius non luctus nec, bibendum vel est. Quisque id sem enim. Maecenas at est leo. Vestibulum tristique pellentesque ex, blandit placerat nunc eleifend sit amet. Fusce eget lectus bibendum, accumsan mi quis, luctus sem. Etiam vitae nulla scelerisque, eleifend odio in, euismod quam. Etiam porta ullamcorper massa, vitae gravida turpis euismod quis. Mauris sodales sem ac ultrices viverra. In placerat ultrices sapien. Suspendisse eu arcu hendrerit, luctus tortor cursus, maximus dolor. Proin et velit et quam gravida dapibus. Donec blandit justo ut consequat tristique.
+1. 개요
+□ (참가대상)
+ ㅇ 국내·외 거주하는 대한민국 국민
+□ (참가신청)
+ ㅇ 2024.5.1.(월) ~ 8.31.(목)
+□ (신고기간)
+ ㅇ 2024.6.1.(토) ~ 8.31.(목)
+□ (신고대상)
+ ㅇ 참가 신청을 완료한 참가자에게 별도 안내 예정
+   - 최신 버전 소프트웨어 기준으로 기존에 알려지지 않은 신규 취약점   
+   - 참가 신청을 완료한 경우에만 취약점 발굴 및 신고 가능  
+□ (신고방법)
+ ㅇ 참가신청 후 신고 양식을 사용하여 내용 작성 후 이메일로 신고
+□ (신고이메일)
+ ㅇ vuln@fsec.or.kr
+□ (주의사항)
+ ㅇ 실제 서비스 중인 웹사이트나 시스템(서버, 네트워크, 보안장비 등)에 특정 데이터를 전송하여 영향을 줄 우려가 있는 서비스 취약점은 평가 및 포상 대상에서 제외됨은 물론, 법에 의해 처벌 받을 수 있습니다.
+   - (「정보통신망 이용촉진 및 정보보호등에 관한 법률」 제48조 및 제71조 제1항 제11호, 제2항)
+□ (포상)
+ ㅇ 포상금, 감사장(입사 시 우대), 금융보안원 홈페이지 'Top Bug Hunters'(명예의 전당) 등재
+
+2. 참가 신청 방법
+□ 아래 웹 페이지의 '운영 안내서'를 숙지 후, '참여 신청 및 비밀유지 서약서'를 작성하여 vuln@fsec.or.kr로 송부
+ * https://www.fsec.or.kr/bbs/1014
+
+3. 포상
+  ㅇ 평가된 취약점 등급에 따라 최대 1,000만원까지의 포상금
+     - 내·외부 보안전문가가 취약점의 영향도, 공격난이도, 발굴난이도 등에 대한 평가를 통해 포상금 지급 대상 및 우수 취약점 선정
+  ㅇ 우수 취약점 신고자는 감사장 부여 및 금융보안원 입사 지원 시 우대
+  ㅇ 연간 TOP 10 우수 취약점 신고자는 금융보안원 홈페이지 'Top Bug Hunters'(명예의 전당) 등재
+ 
+4. 문의처
+□ 금융보안원 침해대응부 SW공급망보안팀
+  - (전화) 02-3495-9431, 9432
+  - (이메일) vuln@fsec.or.kr
