@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title:
+title: ""
 date: 2022-10-24
 type: landing
 
@@ -8,13 +8,13 @@ sections:
 
   - block: markdown
     content:
-      title:
-      subtitle: ''
-      text:
+      title: ""
+      subtitle: ""
+      text: ""
     design:
-      columns: '1'
+      columns: "1"
       background:
-        image: 
+        image:
           filename: welcome.jpg
           filters:
             brightness: 1
@@ -23,7 +23,7 @@ sections:
           size: cover
           text_color_light: true
       spacing:
-        padding: ['20px', '0', '20px', '0']
+        padding: ["20px", "0", "20px", "0"]
       css_class: fullscreen
 
   - block: markdown
@@ -37,9 +37,9 @@ sections:
         TypeScript 문법에 익숙합니다.<br><br>
         TypeGuard 문법을 프로젝트에 적용한 적이 있습니다.<br><br>
     design:
-      columns: '1'
+      columns: "1"
       spacing:
-        padding: ['20px', '0', '20px', '0']
+        padding: ["20px", "0", "20px", "0"]
   
   - block: markdown
     content:
@@ -56,67 +56,66 @@ sections:
         git-flow에 대해 압니다.<br><br>
 
     design:
-      columns: '1'
+      columns: "1"
       spacing:
-        padding: ['20px', '0', '20px', '0']
+        padding: ["20px", "0", "20px", "0"]
 
-  
-    - block: collection
+  - block: collection
     content:
       title: 보안 컨퍼런스
-      subtitle:
-      text:
+      subtitle: ""
+      text: ""
       count: 5
       filters:
-        author: ''
-        category: ''
+        author: ""
+        category: ""
         exclude_featured: false
-        publication_type: ''
-        tag: ''
-      offset: 0 
+        publication_type: ""
+        tag: ""
+      offset: 0
       order: desc
       page_type: awards
     design:
       view: community/custom_card1
-      columns: '1'
+      columns: "1"
 
-    - block: collection
+  - block: collection
     content:
       title: 보안 컨퍼런스
-      subtitle:
-      text:
+      subtitle: ""
+      text: ""
       count: 5
       filters:
-        author: ''
-        category: ''
+        author: ""
+        category: ""
         exclude_featured: false
-        publication_type: ''
-        tag: ''
-      offset: 0 
+        publication_type: ""
+        tag: ""
+      offset: 0
       order: desc
       page_type: project
     design:
       view: card
-      columns: '1'
+      columns: "1"
     
-    - block: collection
+  - block: collection
     content:
       title: 보안 컨퍼런스
-      subtitle:
-      text:
+      subtitle: ""
+      text: ""
       count: 5
       filters:
-        author: ''
-        category: ''
+        author: ""
+        category: ""
         exclude_featured: false
-        publication_type: ''
-        tag: ''
-      offset: 0 
+        publication_type: ""
+        tag: ""
+      offset: 0
       order: desc
       page_type: post
     design:
       view: community/custom_card
-      columns: '1'
+      columns: "1"
   
   - block: slider
     content:
