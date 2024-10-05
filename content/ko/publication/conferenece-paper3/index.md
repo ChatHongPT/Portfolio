@@ -1,5 +1,5 @@
 ---
-title: 'Slow HTTP DoS 공격에 대한 분석'
+title: '문서파일 포렌식(iso 변조)'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -28,78 +28,57 @@ publication_short: In *BCG*
 
 abstract: |
  
-  **<Slow HTTP DoS 공격에 대한 분석>**
+  1. 바탕화면에 Windows.iso 파일을 다운로드한다.
 
-  **DoS 공격**
-  -공격 대상 시스템 또는 서버에 과도한 부하를 발생시켜 다른 이들이 서비스를 이용하지 못하도록 방해하는 공격 기법
- 
-  **DDoS공격**
-  -서비스 중단을 목적으로 공격 대상에게 대용량 트래픽을 전송해 서비스의 가용량을 침해하여 다른 이용자가 서비스를 이용하지 못하도록 방해하는 공격
-  대규모 커뮤니티 집단에서 하나의 웹 사이트를 새로고침 하나로 무너뜨린 사례도 있음
-  -> 연속 새로고침만으로도 무차별적인 트래픽을 전송할 수 있기에 가능한 공격 기법
+  2. Windows.iso 파일을 마운트한다.
+  Windows.iso 파일을 가상 드라이브에 마운트를 하면 해당 드라이브(F:)에 윈도우 설치 파일이 생성된다.
+  바탕화면 -> Windows.iso 파일에서 마우스 우클릭 -> 가상 드라이브에 마운트 -> (F:)ESD-ISO 생성  
 
-  **Slow HTTP DoS** 
-  -공격 대상 서버에 HTTP 요청 패킷의 Header를 변조해서 동시에 많은 HTTP 연결을 유지하여 서버의 가용량을 침해하는 DoS 공격 기법
-  -서버마다 요청을 처리하는 가용량이 있지만, 해당 기법은 서버에게 요청을 매우 천천히 전송하거나 Header를 변조하여 요청이 끝나도 연결을 끊지 못하도록 하는 공격기법
+  3) 원하는 윈도우 버전의 인덱스 번호를 확인한다.
+  3-1) install.esd 파일에서는 여러 가지 버전의 윈도우를 포함하기 때문에 추출하려는 윈도우 버전의 index 번호를 확인한다.
+  3-2) 명령 프롬프트를 권리자 권한으로 실행시킨다.
+  3-3) 윈도우 버전의 인덱스 번호를 확인한다.
+  dism /get-wiminfo/wimfile:F:\sources\install.esd
 
-  **Slow HTTP DoS 종류**
+  4. wim 파일을 추출한다.
+  4-1)사전에 wim 파일을 생성할 임의의 폴더 (c:\whs_windows)를 만들어준다. 4-2)인덱스: 3(windows 10 pro)를 추출한다.
+  4-3)wim 파일을 추출한다.
+  dism/export0image /sourceimagefile:F:\sources\install.esd /sourceindex:3 /destinationimagefile:c:\whs_windows\install.wim /compress:max
 
-  - **Slow HTTP Header DoS**: 요청 Header의 끝을 의미하는 빈 라인의 개행을 전달하지 않고, 지속적으로 불필요한 Header를 추가하여 연결 상태를 유지하는 공격기법
-  - **Slow HTTP POST DoS**:  RUDY 라고 불려지는 공격 기법, 헤더 필드의 Content-Length를 비정상적으로 크게 설정한 후, 매우 작은 데이터를 천천히 웹 서버에 전송하여 연결 상태를 유지하여 웹 서버의 가용량을 침해하는 공격
-  - **Slow HTTP Read DoS**: HTTP 요청을 전송한 후 Windows 크기를 아주 작게 설정하여 연결 상태를 유지하며 웹 서버의 가용량을 침해하는 공격(무한  대기 상태)
+  4-4) 탐색기를 통해 확인한다.
+  - 탐색기에서 확인하면 whs_windows 폴더에 install.wim 파일이 잘 추출되었음을 알 수 있다. wim 파일도 압축 이미지 파일이고, 추출된 install.wim 파일의 크기는 4.55GB이다.
 
-  **RUDY Attack**
- 
-  -Slow HTTP DoS 공격 기법 중 POST DoS에 해당
-  -개발자의 보안 설정 오류나 App, 프레임워크가 최신 버전이 아닐 경우 취약점을 활용한 공격 기법 중 하나
+  5) 설치한 dism gui를 통해 wim을 마운트한다.
 
-  **[실습]**
+  6) mount해 놓은 wim 파일을 열어보면 windows에서 자주 보았던 디렉토리 구조들을 확인할 수 있다.
 
-  -bee-box IP [희생자] : 192.168.92.137
+  7)레지스토리 편집기를 연다.
 
-  -Kali-Linux IP [공격자] : 192.168.43.178
+  8) 악성코드를 심는다면 주로 HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run에 심는다. 그래서 HKEY_CURRENT_USER에 wim파일의 software파일을 하이브로드한다.
 
-  **▶공격 시나리오**
-  1) Kali-Linux를 활용해 bee-box Server에 Slow HTTP DoS 공격을 수행하여 bee-box Server의 가용량을 모두 차지하여 다른 사용자가 접속하지 못하게 한다.
-  2) 공격 실습에서는 칼리 리눅스의 slowhttptest 도구를 활용(slowhttptest 도구 -> Slow HTTP DoS 공격 테스트 도구)
-  3) 공격 실습하기 전, RUDY Attack에 사용되는 패킷에 대해 분석하기 위해 Kali-Linux에서 WireShark를 실행킨다.
-  4) WireShark를 실행시킨 후, 다음과 같은 필터를 걸어준다.
-  -> ip.addr == [bee-box IP] && ip.addr == [Kali-Linux IP]
-  5) 칼리 리눅스에 slowhttptes 도구를 설치한다.
+  9)cmd에서 where명령을 통해 shutdown.exe 위치를 찾는다.
 
-  **[테스트할 공격 기법 선택]**
+  10) 레지스토리 편집기(레지스토리 값 변조)를 통해 HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run에 shutdown 문자열값을 생성한다.
+  -windows로그인 했을 때, 5초 후 시스템이 무한 재부팅되는 악성코드를 제작해야 되기 때문에 기준과 알맞은 데이터를 작성한다.
+  “C:\Windows\System32\shutdown.exe” /r /f /t 5
 
-  -H : Slowloris 공격
-  -B : RUDY 공격
-  -R : Apache Killer 공격
-  -X : Slow Read 공격(Slow HTTP Read Dos)
+  11) 하이브 언로드를 한 뒤 dismout wim을 한다.
+  - 과제 실습 중에 dism gui를 닫아버려서 다시 실습하느라 whs_windows 폴더 대신 wim 폴더로 대체했다.
 
-  -Bee-Box Server에 RUDY DoS 공격을 수행하기 위해 다음과 같은 명령어를 사용했다.
-  -> slowhttptest -B -t [임의의 문자열] -c 4000 -u http://[bee-box IP]:80
+  12)UltralSO로 아까 다운로드 받은 windows.iso를 연다.
 
-  **[공격 기본 설정]**
+  13)해당 iso 파일에서 install.esd 파일을 삭제하고 dismount했던 install.esd를 추가한 뒤 파일을 다른 이름으로 저장한다.
 
-  -t  : 요청 시 사용할 메소드 값 (default: Slow HTTP Attack인 경우 GET / Slow HTTP Body Attack인 경우 POST)
-  -c : 공격 대상에 연결할 연결 개수 설정 (default : 50)
-  -u : 공격대상의 url 설정
+  14) 해당 iso 파일을 가상 머신으로 실행시킨다.
 
-  **[공격 분석]**
-
-  -Content-Length가 4096으로 slowhttptest의 명령어 기본 값으로 설정된 것을 볼 수 있고, body 영역에 랜덤한 문자열이 들어감을 확인
-  -첫 번째 줄에 GET이나 POST 같은 정상적인 메소드가 아닌 slowhttptest 명령어의 -t 옵션으로 지정한 값이 메소드로 들어감
-
-  **[대응 방안]**
-
-  -연결 Time out 설정으로 일정 시간 이상 연속된 데이터를 보내지 않는 접속자에 대해 차단
+  15) 과제 조건과 마찬가지로 windows 로그인을 했을 대, 5초 뒤 시스템이 무한 재부팅됨을 확인할 수 있었다.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- DoS
-- DDoS
-- Network Security
-
+- forensic
+- iso
 # Display this page in the Featured widget?
 featured: true
 
@@ -108,8 +87,8 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://github.com/ChatHongPT/JBNU_HONGSEOK.github.io/blob/main/content/ko/publication/conferenece-paper/conference-paper.pdf'
-url_code: 'https://github.com/sahilchaddha/rudyjs'
+url_pdf: ''
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
