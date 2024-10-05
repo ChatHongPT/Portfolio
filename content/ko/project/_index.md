@@ -1,7 +1,7 @@
 ---
-title: Projects
+title: 👨🏻‍💻 프로젝트
 
-view: card
+view: community/custom_card
 
 banner:
   caption: ''
