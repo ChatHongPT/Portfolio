@@ -5,7 +5,7 @@ title: 'Analysis of Slow HTTP DoS Attacks'
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - CHOI HONG SEOK
+  - 최홍석
 
 # Author notes (optional)
 author_notes:
@@ -27,6 +27,7 @@ publication: In *BCG LABx*
 publication_short: In *BCG*
 
 abstract: |
+ 
   **<Analyzing Slow HTTP DoS Attacks>**
 
   **DoS attacks**
@@ -52,7 +53,7 @@ abstract: |
   -Corresponds to POST DoS among Slow HTTP DoS attack techniques
   -One of the attack techniques that exploit vulnerabilities if the developer's security settings errors, apps, and framework are not up to date
 
-  **Practice**
+  **[Practice]**
 
   -Bee-box IP [victim]: 192.168.92.137
 
@@ -91,8 +92,8 @@ abstract: |
 
   -Connection Time out setting blocks connectors who do not send consecutive data for a certain period of time or longer
 
-# Summary. An optional shortened abstract.
-summary: DoS attack technique that modulates the header of the HTTP request packet on the attack target server to maintain many HTTP connections at the same time, thereby infringing on the server's availability
+  # Summary. An optional shortened abstract.
+Summary: DoS attack technique that modulates the header of the HTTP request packet to the target server to maintain many HTTP connections at the same time, thereby infringing on the server's available capacity
 
 tags:
 - DoS

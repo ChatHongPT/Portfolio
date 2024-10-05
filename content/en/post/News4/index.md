@@ -1,62 +1,62 @@
 ---
-title: Apply for AutoHack 2024 (2024 Automobile Hacking Defense Competition)
+title: AutoHack 2024(2024 자동차 해킹 방어 경진대회) 신청
 date: 2024-09-10
 image:
   focal_point: 'top'
 ---
 
-We are informing you of the AutoHack 2024 (2024 Automobile Hacking Defense Competition) of the Innovative Convergence University Project (Future Automobile) in the high-tech field, so we ask for your interest and participation.
+첨단분야 혁신융합대학사업(미래자동차)의 AutoHack 2024 (2024 자동차 해킹 방어 경진대회)를 다음과 같이 안내 드리오니 학부생들의 많은 관심과 참여 부탁드립니다.
 
 <!--more-->
 
-1. Contest Name: AutoHack 2024 (2024 Automobile Hacking Defense Competition)
+1. 대회명: AutoHack 2024 (2024 자동차 해킹 방어 경진대회)
+
+ 
+
+2. 대회일시: 2024.11.20(수) ~ 11.22.(금)(단, 11.19.화 사전 준비)
+
+ 
+
+3. 대회장소: 대구 EXCO
+
+ 
+
+4. 대회일정
+
+   ▫ 신청기간: 2024.09.16.(월)~09.27.(금) 
 
 
 
-2. Date and time of competition: 2024.11.20 (Wednesday) ~ 11.22 (Friday) (However, 11.19 Tuesday, pre-prepared)
+   ▫ 신청대상: 첨단분야 혁신융합대학사업 컨소시엄 전체 및 공동활용대학 학부 재학생
 
 
 
-3. Venue: Daegu EXCO
+   ▫ 신청방법: 구글폼 신청 (https://forms.gle/WbSqjp9oiLPEtBUu6 )
+
+   
+
+   ▫ OT 및 사전교육(대면/국민대): 2024.10.12.(토)
 
 
 
-4. the schedule of the competition
-
-▫ Application period: 2024.09.16 (Monday)~09.27 (Friday)
+   ▫ CTF 예선대회(온라인): 2024.11.02.(토) (보고서 제출)
 
 
 
-▫ Subject to application: Undergraduate students of the entire consortium of innovative convergence universities in high-tech fields and undergraduate students of joint universities of use
+   ▫ 본선교육(대면/국민대): 2024.11.09.(토)
 
 
 
-▫ How to apply: Google form application (https://forms.gle/WbSqjp9oiLPEtBUu6)
+   ▫ 본선대회: 2024.11.22.(금)
 
+ 
 
+5. 시상내역: 대상(교육부장관상)외 시상품 (팀원 모두 수여)
 
-▫ OT and pre-education (face-to-face/national university): 2024.10.12. (Sat)
+ 
 
+※ 상세내용은 위 첨부된 포스터 참고바랍니다.
 
+※ 기타 사정에 의해 일정 변동될 수 있으며 안내 및 공지 드리겠습니다.
 
-▫ CTF Qualifying Contest (Online): 2024.11.02. (Sat) (Report Submission)
-
-
-
-▫ Main examination education (face-to-face/national university): 2024.11.09. (Sat)
-
-
-
-▫ Final Contest: November 22, 2024 (Friday)
-
-
-
-5. Award details: Grand Prize (Minister of Education Award) Exclusive prize (All team members are awarded)
-
-
-
-※ Please refer to the attached poster above for details.
-
-※ The schedule may change due to other circumstances, and we will inform you and inform you.
-
-※ Inquiries: Kookmin University Future Automobile Business Group bn120249@kookmin.ac.kr
+※ 문의: 국민대학교 미래자동차사업단 bn120249@kookmin.ac.kr

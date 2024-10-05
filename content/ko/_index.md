@@ -15,7 +15,7 @@ sections:
       columns: "1"
       background:
         image:
-          filename: welcome.jpg
+          filename: hi.gif
           filters:
             brightness: 1
           parallax: false

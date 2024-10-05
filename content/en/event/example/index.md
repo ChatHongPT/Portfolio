@@ -14,7 +14,6 @@ address:
 
 summary: Cyber Kill Chain Analysis
 abstract: Preemptive defense techniques to mitigate and eliminate threats by analyzing cyber attack processes and threats posed to the organization at each attack stage and the attacker's purpose, activities, etc
-
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2021-11-11T13:00:00Z'

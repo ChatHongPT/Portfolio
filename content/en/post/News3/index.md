@@ -1,27 +1,29 @@
 ---
-title: 2024 Cyber Security Competition in Chungcheong Province to be held
+title: 2024 충청권 사이버보안 경진대회 개최
 date: 2024-08-14
 image:
   focal_point: 'top'
 ---
 
-The Korea Health Industry Promotion Agency will hold the 2nd Inter-Chungcheong Province Security Competition (CTF) to improve cybersecurity competitiveness by cultivating future cybersecurity talents.
+
+한국보건산업진흥원은 미래 사이버보안 인재 양성을 통해 사이버보안 경쟁력을 향상하기 위하여 제2회 충청권 사이보안 경진대회(CTF)를 개최합니다.
+
 <!--more-->
 
-1. the schedule of the competition
+1. 대회일정
 
-- Participation reception: August 19, 2024 (Monday) to September 6, 2024 (Fri)
+  - 참가접수 : 2024년 8월 19일(월)~9월 6일(금)
 
-- Held for 2 days and 1 night from September 26th (Thursday) to September 27th (Friday), 2024
+  - 대회개최 : 2024년 9월 26일(목)~9월 27일(금), 1박 2일간
 
-2. Place: JEI Talent Education Training Center (Cheonan)
+2. 장  소 : JEI재능교육연수원(천안)
 
-- Eligibility to participate: University (graduate) student who is currently in Chungcheong area (Daejeon, Sejong, Chungnam, Chungbuk) or is taking a leave of absence
+  - 참가자격 : 충청권(대전, 세종, 충남, 충북)에 재학중이거나 휴학중인 대학(원)생
 
-- How to apply: Apply for participation and submit a certificate of enrollment (leave of absence) to ccunictf@gmail.com
+  - 접수방법 :  ccunictf@gmail.com으로 참가신청서 및 재학(휴학)증명서 제출
 
-- The application form for participation is posted on the competition website (https://www.ccunictf.kr )
+  - 참가신청서 양식은 대회 홈페이지(https://www.ccunictf.kr)에 게시
 
-- Award details: Award certificate, prize money (total of KRW 9 million)
+- 시상내역 : 상장, 상금(총 900만원)
 
-- Others: For details of the competition, please refer to the competition website (https://www.ccunictf.kr )
+- 기타사항 : 경진대회 상세내용은 대회 홈페이지(https://www.ccunictf.kr) 참고
