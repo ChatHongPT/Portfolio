@@ -1,7 +1,10 @@
 ---
 title: Oasis Hackathon Project
 summary: 호남지역 관광 활성화를 위한 다트 게임 기반 여행 어플 개발
-tags: ['Kotlin', 'Android Studio', 'Dart Game']
+tags: 
+    - Kotlin
+    - Android Studio
+    - Firebase
 date: 2024-07-14
 
 external_link: ""
@@ -38,6 +41,8 @@ slides: ""
 1. **호남지역 관광 활성화**: 지역 관광에 새로운 트렌드를 반영하여 방문자 유도
 2. **게임을 통한 참여 유도**: 다트 게임 요소를 추가하여 사용자들의 재미와 참여도를 극대화
 3. **커뮤니티 형성**: SNS와의 연동을 통해 사용자들 간의 커뮤니티를 구축
+
+## 
 
 [GitHub Repository 보기](https://github.com/hodu26/oasis_con)
 
