@@ -41,25 +41,42 @@ sections:
         padding: ['20px', '0', '20px', '0']
 
   
-  - block: markdown
+  - block: slider
     content:
-      title:
-      subtitle: ''
-      text:
-    design:
-      columns: '1'
-      background:
-        image: 
-          filename: cloud.jpg
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: cover
-          text_color_light: true
-      spacing:
-        padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
+      slides:
+        - title: ☁️ 나에게 맞는 Cloud 학습
+          content: BCG Cloud Skills Boost로 나와 내 팀의 기술 역량을 높이세요. 초보자부터 전문가 수준에 이르기까지 목표 달성에 필요한 자격증과 교육을 찾아보세요.
+          align: center
+          background:
+            image:
+              filename: cloud.jpg
+              filters:
+                brightness: 0.6
+            position: center
+            color: '#000'
+          text: "<br>{{% cta cta_link=\"./field/\" cta_text=\"더보기 →\" %}}"
+
+        - title: 👨🏻‍💻 당신을 위한 언더그라운드 해킹그룹 HS 랩에 초대합니다.
+          content: 당신의 잠재력을 HS 랩의 많은 해커들과 함께해서 빛낼 수 있습니다.
+          align: center
+          background:
+            image:
+              filename: security.jpg
+              filters:
+                brightness: 0.4
+            position: center
+            color: '#000'
+
+        - title: 🔐 BCG LAB 연구실원 모집
+          content: 💡 본 연구실에서 보안에 관심과 열정이 있는 연구생들을 모집합니다.
+          align: center
+          background:
+            image:
+              filename: welcome.jpg
+              filters:
+                brightness: 0.4
+            position: center
+            color: '#000'
 
   - block: collection
     content:
