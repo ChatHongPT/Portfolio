@@ -62,17 +62,15 @@ sections:
 
   - block: collection
     content:
-      id: section-1
-      title: Notifications & News
+      title: My Project
       count: 3
       offset: 0
       order: desc
       filters:
         folders:
-          - Qualifications
-          - Awards
+          - awards
     design:
-      view: compact
+      view: community/custom_card
       columns: '2'
 
   - block: collection
