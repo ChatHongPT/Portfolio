@@ -46,7 +46,7 @@ sections:
       coordinates:
         latitude: '35.84601324617979'
         longitude: '127.13444961966684'
-      directions: 전북대학교 공과대학 7호관에서 사무실 302호로 오세요.
+      directions: 전북대학교 공과대학 7호관에서 사무실 302호
       office_hours:
         - 'Monday 10:00 to 13:00'
         - 'Wednesday 09:00 to 10:00'

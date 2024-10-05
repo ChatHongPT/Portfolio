@@ -1,18 +1,18 @@
 ---
-title: Example Event
+title: Cyber Kill Chain
 
-event: Wowchemy Conference
-event_url: https://example.org
+event: BCG LAB
+event_url: https://sites.google.com/view/bcg-lab/main
 
-location: Wowchemy HQ
+location: BCG LAB
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  street: 전북대학교 공과대학 7호관 302호
+  city: 전주시
+  region: 전주
+  postcode: '54896'
+  country: 대한민국
 
-summary: An example event.
+summary: Cyber Kill Chain 분석
 abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
 
 # Talk start and end times.
