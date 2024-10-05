@@ -34,6 +34,42 @@ education:
       institution: 전북대학교(Jeonbuk National University)
       year: 2020 - 2026
 
+---
+# A section created with the Portfolio widget.
+# This section displays content from `content/project/`.
+# See https://docs.hugoblox.com/widget/portfolio/
+widget: portfolio
+
+# This file represents a page section.
+headless: true
+
+# Order that this section appears on the page.
+weight: 20
+
+title: ''
+subtitle: ''
+
+content:
+  page_type: project
+  filter_default: 0
+
+  filter_button:
+    - name: All
+      tag: '*'
+    - name: Machine Learning
+      tag: ML
+    - name: Cloud
+      tag: cloud
+    - name: NLP
+      tag: NLP
+
+design:
+  columns: '1'
+  view: masonry
+  flip_alt_rows: true
+  background: {}
+  spacing: {padding: [0, 0, 0, 0]}
+
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
