@@ -30,13 +30,11 @@ sections:
     content:
       title: '**저는 _ _ _ _ 를 잘해요.**'
       text: |
+        <br><br>**NextJS**
+        **JavaScript & TypeScript**<br><br>
 
-        '**NextJS**'
-
-        '**JavaScript & TypeScript**'
-
-        ES6 자바스크립트 문법을 사용합니다.
-        TypeScript 문법에 익숙합니다.
+        ES6 자바스크립트 문법을 사용합니다.<br><br>
+        TypeScript 문법에 익숙합니다.<br><br>
         TypeGuard 문법을 프로젝트에 적용한 적이 있습니다.<br><br>
     design:
       columns: '1'
@@ -47,17 +45,15 @@ sections:
     content:
       title: '**저는 _ _ _ _ 를 잘해요.**'
       text: |
-
-        '**ReactJS**'
-
-        Recoil을 이용하여 전역 상태관리를 할 수 있습니다
-        함수형 컴포넌트 문법에 익숙합니다.
-        React hooks를 능숙하게 사용합니다.
+        <br><br>**ReactJS**<br><br>
+        Recoil을 이용하여 전역 상태관리를 할 수 있습니다<br><br>
+        함수형 컴포넌트 문법에 익숙합니다.<br><br>
+        React hooks를 능숙하게 사용합니다.<br><br>
         
-        '**GIT**'
+        '**GIT**'<br><br>
 
-        git을 사용하여 프로젝트 관리를 합니다.
-        git-flow에 대해 압니다.
+        git을 사용하여 프로젝트 관리를 합니다.<br><br>
+        git-flow에 대해 압니다.<br><br>
 
     design:
       columns: '1'
