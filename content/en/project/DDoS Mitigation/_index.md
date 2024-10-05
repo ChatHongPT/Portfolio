@@ -53,15 +53,15 @@ The project focused on developing **security equipment** that can leverage **eBP
 - **Kwaksong** (Tatime Security)
 
 ### Project Manager (PM)
-- **Ham Joon-hyung** (Baejae University) [Linked In] (https://www.linkedin.com/in/%EC%A4%80%ED%98%95-%ED%95%A8-669898284/)
+- **Ham Joon-hyung** (Baejae University) [LinkedIn](https://www.linkedin.com/in/%EC%A4%80%ED%98%95-%ED%95%A8-669898284/)
 
 ### a team member
 - **Sungwon Kang** (Pai Chai University)
 - **최홍석** (Jeonbuk National University) [LinkedIn](https://www.linkedin.com/in/%ED%99%8D%EC%84%9D-%EC%B5%9C-089b23302?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
-- **Im Jung-hoon** (Chosun University) [Linked In] (https://www.linkedin.com/in/%EC%A0%95%ED%9B%88-%EC%9E%84-235b06304/)
-- **Ji Ji-hwan** (National Hanbat University) [Linked In] (www.linkedin.com/in/ Jung Hoon-Im-235b06304/)
+- **Im Jung-hoon** (Chosun University) [LinkedIn](https://www.linkedin.com/in/%EC%A0%95%ED%9B%88-%EC%9E%84-235b06304/)
+- **Ji Ji-hwan** (National Hanbat University)[LinkedIn](www.linkedin.com/in/ Jung Hoon-Im-235b06304/)
 - **Dohyun Kim** (Gangneung Wonju University)
-- **Ra Min-woo** (Kunchuk University) [Linked In] (https://www.linkedin.com/in/raminwo/)
+- **Ra Min-woo** (Kunchuk University) [LinkedIn](https://www.linkedin.com/in/raminwo/)
 
 ## Network Information
 - **Network:** AS216362 (hamjoon type)
