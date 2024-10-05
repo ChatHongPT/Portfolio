@@ -3,36 +3,14 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: 최홍석 # Website name
-baseURL: 'https://hongttochi.github.io/' # Website URL
-
-# Site title and description
-title: "동네 보안 연구소"
-description: "동네 보안 연구소"
-
-# Keywords for search engines
-keywords: ["전북대학교", "DevSecOps", "Network", "최홍석", "보안", "Security", "Cloud"]
-
-# Author name
-author: "최홍석"
-
-# Open Graph settings (for social media previews)
-params:
-  description: "동네 보안 연구소"
-  author: "최홍석"
-  ogImage: "avatar.jpg"  # 사이트를 대표하는 이미지의 경로
-  ogType: "website"
-  ogTitle: "동네 보안 연구소"
-
-LinkedIn:
-  username: "최홍석"
-  url: "https://www.linkedin.com/in/%ED%99%8D%EC%84%9D-%EC%B5%9C-089b23302/"
+title: Wowchemy Research Group # Website name
+baseURL: 'https://example.com/' # Website URL
 
 ############################
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: ko
+defaultContentLanguage: en
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true
@@ -40,8 +18,7 @@ removePathAccents: true
 ############################
 ## ADVANCED
 ############################
-build:
-  writeStats: true
+
 enableGitInfo: false
 summaryLength: 30
 paginate: 10
