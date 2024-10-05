@@ -48,6 +48,15 @@
       <p>{{ . }}</p>
     </div>
     {{ end }}
+    
+    {{ if .Params.tags }}
+  <div class="tags">
+    {{ range .Params.tags }}
+      <span class="tag">{{ . }}</span>
+    {{ end }}
+  </div>
+{{ end }}
+
 
     {{ if $has_attachments }}
     <div class="btn-links">
@@ -56,3 +65,4 @@
     {{ end }}
   </div>
 </div>
+  
