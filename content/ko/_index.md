@@ -62,16 +62,22 @@ sections:
 
   - block: collection
     content:
-      title: My Project
-      count: 3
-      offset: 0
-      order: desc
+      title: 수상 경력
+      subtitle:
+      text:
+      count: 5
       filters:
-        folders:
-          - awards
+        author: ''
+        category: ''
+        exclude_featured: false
+        publication_type: ''
+        tag: ''
+      offset: 0 
+      order: desc
+      page_type: Qualifications
     design:
-      view: community/custom_card
-      columns: '2'
+      view: community/custom_card1
+      columns: '1'
 
   - block: collection
     content:
@@ -87,7 +93,7 @@ sections:
         tag: ''
       offset: 0 
       order: desc
-      page_type: awards
+      page_type: project
     design:
       view: community/custom_card1
       columns: '1'
