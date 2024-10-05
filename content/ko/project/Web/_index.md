@@ -1,16 +1,18 @@
 ---
-title: DDoS Mitigation
-summary: 저사양 환경에서의 DDoS 공격 완화 보안 장비 개발    
+title: Pronunciation Recognition AI
+summary: 구음장애 발음 특성을 고려한 개인화된 음성 인식 프로그램 개발
 tags:
   - Kotlin
   - Android Studio
-  - Dart Game
+  - Python
+  - Whisper Model
+  - Firebase
 date: 2024-07-14
 
 external_link: ""
 
 image:
-  caption: DDoS Mitigation
+  caption: Pronunciation Recognition AI
   focal_point: Smart
   filename: featured.png
 
@@ -18,7 +20,7 @@ links:
   - icon: github
     icon_pack: fab
     name: github
-    url: https://github.com/DDoSMitigation
+    url: https://github.com/Pronunciation-recognition-AI
 
 url_code: ""
 url_pdf: ""
@@ -29,38 +31,22 @@ slides: ""
 ---
 <div class="justify-text">
 
-## 한국정보기술연구원 화이트햇 스쿨 2기 프로젝트 
-(저사양 환경에서의 DDoS 공격 완화 보안 장비 개발)
+### 구음장애 발음 특성을 고려한 개인화된 음성 인식 프로그램 개발
 
-이 프로젝트는 **eBPF/XDP**와 **BGP**를 활용하여 저사양 환경에서도 **DDoS 공격**을 실시간으로 탐지하고 악성 패킷을 차단할 수 있는 **보안 장비**를 개발하는 데 중점을 두었습니다. 또한, **ELK 스택**을 이용해 모니터링 웹 페이지를 구축하여 실시간 네트워크 상태를 확인할 수 있습니다.
+이 프로젝트는 **구음장애**를 가진 사용자들이 자신의 발음 특성에 맞는 음성 인식 프로그램을 사용할 수 있도록 개발된 AI 시스템입니다. 이를 통해 사용자는 보다 정확한 발음 인식을 경험할 수 있으며, 생활 속 의사소통의 편리함을 증대시킵니다.
 
-### 주요 기능:
-- **eBPF/XDP 기반 패킷 필터링**: 실시간으로 악성 패킷을 탐지하고, 저사양 환경에서도 효율적으로 처리
-- **BGP 라우팅**: 네트워크 경로를 동적으로 변경하여 DDoS 공격을 완화
-- **ELK 스택 모니터링 웹 페이지**: Elasticsearch, Logstash, Kibana를 활용한 실시간 모니터링 대시보드 제공
+#### 주요 기능:
+- **발음 교정**: AI가 사용자의 발음을 분석하고 교정된 발음을 제공
+- **개인 맞춤형 학습**: 사용자의 발음 특성에 맞춰 음성 모델을 개인화
+- **실시간 피드백**: 즉각적인 발음 인식과 교정을 통한 상호작용 제공
 
-### 프로젝트 목표:
-1. **DDoS 공격 완화**: 저사양 환경에서도 높은 효율을 자랑하는 패킷 모니터링 및 차단 시스템 구축
-2. **실시간 네트워크 모니터링**: ELK 스택을 통해 실시간으로 네트워크 상태를 모니터링하고 공격을 탐지
-3. **네트워크 안정성 보장**: BGP를 이용한 라우팅 변경으로 네트워크의 안정성을 극대화
+#### 프로젝트 목표:
+1. **정확한 음성 인식**: 사용자별 발음 특성에 최적화된 AI 모델 제공
+2. **사용자 친화적 인터페이스**: 누구나 쉽게 사용할 수 있는 직관적인 인터페이스 설계
+3. **확장 가능한 모델**: 다양한 구음장애 유형에 대응할 수 있는 유연한 모델 구조
 
-## 멘토 및 주요 인원
+[GitHub Repository 보기](https://github.com/Pronunciation-recognition-AI)
 
-### 멘토
-- **박건호** (테이텀 시큐리티)
-
-### 프로젝트 리더 (PL)
-- **곽송이** (테이텀 시큐리티)
-
-### 프로젝트 매니저 (PM)
-- **함준형** (배재대학교) [LinkedIn](https://www.linkedin.com/in/%EC%A4%80%ED%98%95-%ED%95%A8-669898284/)
-
-### 팀원
-- **강성원** (배재대학교)
-- **최홍석** (전북대학교) [LinkedIn](https://www.linkedin.com/in/%ED%99%8D%EC%84%9D-%EC%B5%9C-089b23302?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
-- **임정훈** (조선대학교) [LinkedIn](https://www.linkedin.com/in/%EC%A0%95%ED%9B%88-%EC%9E%84-235b06304/)
-- **지도환** (국립한밭대학교) [LinkedIn](www.linkedin.com/in/정훈-임-235b06304/)
-- **김도현** (강릉원주대학교)
-- **라민우** (건국대학교) [LinkedIn](https://www.linkedin.com/in/raminwo/)
+> 더 자세한 정보는 위 링크를 클릭하여 확인하세요!
 
 
