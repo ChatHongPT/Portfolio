@@ -77,6 +77,12 @@ sections:
                 brightness: 0.4
             position: center
             color: '#000'
+    design:
+      slide_height: '300px'
+      slide_width: '110%'
+      is_fullscreen: false
+      loop: true
+      interval: 3000
 
   - block: collection
     content:
