@@ -45,7 +45,7 @@ sections:
     content:
       slides:
         - title: ☁️ 나에게 맞는 Cloud 학습
-          content: BCG Cloud Skills Boost로 나와 내 팀의 기술 역량을 높이세요. 초보자부터 전문가 수준에 이르기까지 목표 달성에 필요한 자격증과 교육을 찾아보세요.
+          content: BCG Cloud Skills Boost로 나와 내 팀의 기술 역량을 높이세요.
           align: center
           background:
             image:
@@ -56,7 +56,7 @@ sections:
             color: '#000'
           text: "<br>{{% cta cta_link=\"./field/\" cta_text=\"더보기 →\" %}}"
 
-        - title: 👨🏻‍💻 당신을 위한 언더그라운드 해킹그룹 HS 랩에 초대합니다.
+        - title: 👨🏻‍💻당신을 위한 언더그라운드 해킹그룹 HS 랩에 초대합니다.
           content: 당신의 잠재력을 HS 랩의 많은 해커들과 함께해서 빛낼 수 있습니다.
           align: center
           background:
@@ -78,7 +78,7 @@ sections:
             position: center
             color: '#000'
     design:
-      slide_height: '300px'
+      slide_height: '500px'
       slide_width: '110%'
       is_fullscreen: false
       loop: true
