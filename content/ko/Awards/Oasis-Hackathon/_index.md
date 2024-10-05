@@ -3,7 +3,7 @@ title: Oasis Hackathon(Application 개발 부문) - 최우수상
 date: 2024-08-27
 organization: 광주정보문화산업진흥원장
 ---
-
+<div class="justify-text">
 SNS에서 유행하는 다트 게임 여행을 활용하여 호남지역 관광의 활성화를 위한 어플 개발
 
 

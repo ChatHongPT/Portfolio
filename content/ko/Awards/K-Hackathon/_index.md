@@ -3,7 +3,7 @@ title: K-HACKATHON 11(Application 개발 부문) - 우수상(한국콘텐츠학�
 date: 2023-11-03
 organizations: 과학기술정보통신부
 ---
-
+<div class="justify-text">
 Elemental Coding Master(코딩 입문자를 위한 게임) 콘텐츠 개발
 <!--more-->
 
