@@ -58,7 +58,7 @@ sections:
 
         git을 사용하여 프로젝트 관리를 합니다.
         git-flow에 대해 압니다.
-        
+
     design:
       columns: '1'
       spacing:
@@ -78,8 +78,11 @@ sections:
                 brightness: 0.6
             position: center
             color: '#000'
-          text: |
-            {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
+          link:
+            icon: graduation-cap
+            icon_pack: fas
+            text: Join Us
+            url: ../contact/
 
         - title: 👨🏻‍💻당신을 위한 언더그라운드 해킹그룹 HS 랩에 초대합니다.
           content: 당신의 잠재력을 HS 랩의 많은 해커들과 함께해서 빛낼 수 있습니다.
