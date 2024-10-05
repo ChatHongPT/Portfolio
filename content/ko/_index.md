@@ -74,7 +74,7 @@ sections:
         tag: ''
       offset: 0
       order: desc
-      page_type: project
+      page_type: /project/
     design:
       view: community/custom_card
       columns: '1'
@@ -93,7 +93,7 @@ sections:
         tag: ''
       offset: 0
       order: desc
-      page_type: Awards
+      page_type: /Awards/
     design:
       view: compact
       columns: '1'
