@@ -18,12 +18,12 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: Lunch & Learn ☕️
-        content: 'Share your knowledge with the group and explore exciting new topics together!'
+      - title: NOTICE
+        content: 💡 BCG LAB 연구실에서 보안에 관심과 열정이 있는 연구생들을 모집합니다.
         align: left
         background:
           image:
-            filename: contact.jpg
+            filename: security.jpg
             filters:
               brightness: 0.7
           position: center
