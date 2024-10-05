@@ -60,7 +60,7 @@ sections:
       spacing:
         padding: ['20px', '0', '20px', '0']
 
-    - block: collection
+  - block: collection
     content:
       title: Project
       subtitle: 
