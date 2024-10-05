@@ -1,5 +1,5 @@
 ---
-# Leave the homepage title empty to use the site title
+# 홈페이지 제목을 비워두어 사이트 제목을 사용
 title: ""
 date: 2022-10-24
 type: landing
@@ -46,7 +46,7 @@ sections:
       title: '**저는 _ _ _ _ 를 잘해요.**'
       text: |
         <br><br>**ReactJS**<br><br>
-        Recoil을 이용하여 전역 상태관리를 할 수 있습니다<br><br>
+        Recoil을 이용하여 전역 상태 관리를 할 수 있습니다.<br><br>
         함수형 컴포넌트 문법에 익숙합니다.<br><br>
         React hooks를 능숙하게 사용합니다.<br><br>
         
@@ -137,7 +137,7 @@ sections:
             url: ../contact/
 
         - title: 👨🏻‍💻당신을 위한 언더그라운드 해킹그룹 HS 랩에 초대합니다.
-          content: <br><br>당신의 잠재력을 HS 랩의 많은 해커들과 함께해서 빛낼 수 있습니다.
+          content: <br><br>당신의 잠재력을 HS 랩의 많은 해커들과 함께 빛낼 수 있습니다.
           align: center
           background:
             image:
