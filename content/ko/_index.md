@@ -50,7 +50,7 @@ sections:
         함수형 컴포넌트 문법에 익숙합니다.<br><br>
         React hooks를 능숙하게 사용합니다.<br><br>
         
-        '**GIT**'<br><br>
+        **GIT**<br><br>
 
         git을 사용하여 프로젝트 관리를 합니다.<br><br>
         git-flow에 대해 압니다.<br><br>
@@ -75,9 +75,9 @@ sections:
             position: center
             color: '#000'
           link:
-            icon: graduation-cap
+            icon: cloud
             icon_pack: fas
-            text: Join Us
+            text: 참여하기
             url: ../contact/
 
         - title: 👨🏻‍💻당신을 위한 언더그라운드 해킹그룹 HS 랩에 초대합니다.
