@@ -93,9 +93,9 @@ sections:
         tag: ''
       offset: 0
       order: desc
-      page_type: /Awards/
+      page_type: Awards
     design:
-      view: compact
+      view: community/custom_card1
       columns: '1'
 
   - block: collection
