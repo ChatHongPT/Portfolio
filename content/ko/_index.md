@@ -81,6 +81,23 @@ sections:
 
   - block: collection
     content:
+      title: 퍼블릭
+      count: 3
+      filters:
+        author: ''
+        category: ''
+        exclude_featured: false
+        publication_type: ''
+        tag: ''
+      offset: 0
+      order: desc
+      page_type: publication
+    design:
+      view: community/custom_card
+      columns: '2'
+
+  - block: collection
+    content:
       title: 보안 컨퍼런스
       subtitle: ""
       text: ""
