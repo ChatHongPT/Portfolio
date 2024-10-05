@@ -74,7 +74,7 @@ sections:
         tag: ''
       offset: 0
       order: desc
-      page_type: project
+      page_type: /project/
     design:
       view: card
       columns: '1'
