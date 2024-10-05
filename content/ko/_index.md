@@ -60,9 +60,9 @@ sections:
       spacing:
         padding: ['20px', '0', '20px', '0']
 
-  - block: collection
+    - block: collection
     content:
-      title: 👨🏻‍💻 프로젝트
+      title: Project
       subtitle: 
       text:
       count: 5
@@ -74,15 +74,15 @@ sections:
         tag: ''
       offset: 0
       order: desc
-      page_type: /project/
+      page_type: project
     design:
-      view: community/custom_card
+      view: card
       columns: '1'
 
   - block: collection
     content:
-      title: 🏆 수상 경력
-      subtitle: 
+      title: 수상 경력
+      subtitle:
       text:
       count: 5
       filters:
@@ -91,17 +91,17 @@ sections:
         exclude_featured: false
         publication_type: ''
         tag: ''
-      offset: 0
+      offset: 0 
       order: desc
-      page_type: Awards
+      page_type: /awards/
     design:
       view: community/custom_card1
       columns: '1'
 
   - block: collection
     content:
-      title: Security Conference
-      subtitle: 
+      title: 보안 컨퍼런스
+      subtitle:
       text:
       count: 5
       filters:
@@ -110,11 +110,11 @@ sections:
         exclude_featured: false
         publication_type: ''
         tag: ''
-      offset: 0
+      offset: 0 
       order: desc
       page_type: post
     design:
-      view: card
+      view: community/custom_card
       columns: '1'
   
   - block: slider
