@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 최홍석
+title: HONG SEOK CHOI
 
 # Full Name (for SEO)
 first_name: Hong Seok
@@ -19,7 +19,7 @@ organizations:
 
 
 # Short bio (displayed in user profile at end of posts)
-bio: 네트워크 및 클라우드 보안 분야에서 깊이 있는 연구를 진행하고 있습니다. 현재 화이트햇 스쿨과 Find The Gap 버그 헌팅과 같은 다양한 대외활동에 적극적으로 참여하며 보안 분야의 최신 동향과 기술을 습득하고 있습니다. 이러한 활동을 통해 실무 경험과 함께 보안에 대한 폭넓은 지식을 쌓아가고 있습니다. 또한, 오아시스 해커톤과 K 해커톤과 같은 개발 대회에 참가하며 소프트웨어 개발에 대한 깊이 있는 이해를 추구하고 있습니다. 이와 같은 다양한 경험을 통해 네트워크 및 클라우드 보안과 개발 분야의 전문성을 동시에 갖추어가고 있으며, 계속해서 기술적 역량을 강화하고 있습니다.
+bio: We are conducting in-depth research in the field of network and cloud security. Currently, we are actively participating in various external activities such as White Hat School and Find The Gap bug hunting to acquire the latest trends and technologies in the field of security. Through these activities, we are gaining a broad knowledge of security along with hands-on experience. In addition, we are participating in development competitions such as Oasis Hackathon and K Hackathon to pursue an in-depth understanding of software development. Through these various experiences, we have expertise in network and cloud security and development at the same time, and continue to strengthen our technical capabilities.
 
 interests:
   - DevOps (DevSecOps)
@@ -30,8 +30,8 @@ interests:
 
 education:
   courses:
-    - course: 컴퓨터공학부
-      institution: 전북대학교(Jeonbuk National University)
+    - course: IT Information Engineering Department
+      institution: Jeonbuk National University
       year: 2020 - 2026
 
 

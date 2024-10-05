@@ -28,14 +28,14 @@ sections:
 
   - block: markdown
     content:
-      title: '**저는 _ _ _ _ 를 잘해요.**'
+      title: '**I _ _ _ _ good at this.**'
       text: |
         <br><br>**NextJS**
         **JavaScript & TypeScript**<br><br>
 
-        ES6 자바스크립트 문법을 사용합니다.<br><br>
-        TypeScript 문법에 익숙합니다.<br><br>
-        TypeGuard 문법을 프로젝트에 적용한 적이 있습니다.<br><br>
+        Use ES6 JavaScript grammar.<br>
+        I am familiar with TypeScript grammar.<br>
+        TypeGuard grammar has been applied to projects.<br><br>
     design:
       columns: '1'
       spacing:
@@ -43,17 +43,17 @@ sections:
   
   - block: markdown
     content:
-      title: '**저는 _ _ _ _ 를 잘해요.**'
+      title: '**I_ _ _ _ good at this.**'
       text: |
         <br><br>**ReactJS**<br><br>
-        Recoil을 이용하여 전역 상태관리를 할 수 있습니다<br><br>
-        함수형 컴포넌트 문법에 익숙합니다.<br><br>
-        React hooks를 능숙하게 사용합니다.<br><br>
+        Recoil allows for global health management <br><br>
+        You are familiar with functional component grammar.<br>
+        Use Reacthooks skillfully.<br>
         
         **GIT**<br><br>
 
-        git을 사용하여 프로젝트 관리를 합니다.<br><br>
-        git-flow에 대해 압니다.<br><br>
+        Use git to manage projects.<br><br>
+        I know about git-flow.<br>    
 
     design:
       columns: '1'
@@ -64,8 +64,8 @@ sections:
   - block: slider
     content:
       slides:
-        - title: ☁️ 나에게 맞는 Cloud 학습
-          content: <br><br>BCG Cloud Skills Boost로 나와 내 팀의 기술 역량을 높이세요.
+        - title: ☁️ Learn the right cloud for me
+          content: <br><br>Boost my team's technical capabilities with BCG Cloud Skills Boost.
           align: center
           background:
             image:
@@ -77,11 +77,11 @@ sections:
           link:
             icon: cloud
             icon_pack: fas
-            text: 참여하기
+            text: Join Us
             url: ../contact/
 
-        - title: 👨🏻‍💻당신을 위한 언더그라운드 해킹그룹 HS 랩에 초대합니다.
-          content: <br><br>당신의 잠재력을 HS 랩의 많은 해커들과 함께해서 빛낼 수 있습니다.
+        - title: 👨🏻‍💻I invite you to the underground hacking group HS Lab for you.
+          content: <br><br>You can shine your potential with a lot of hackers in HS Lab.
           align: center
           background:
             image:
@@ -91,8 +91,8 @@ sections:
             position: center
             color: '#000'
 
-        - title: 🔐 BCG LAB 연구실원 모집
-          content: <br><br>💡 본 연구실에서 보안에 관심과 열정이 있는 연구생들을 모집합니다.
+        - title: 🔐 Recruitment of BCGLAB Laboratories
+          content: <br><br>💡 We are recruiting researchers who are interested in and passionate about security in this laboratory.
           align: center
           background:
             image:
