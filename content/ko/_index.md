@@ -76,7 +76,7 @@ sections:
       order: desc
       page_type: project
     design:
-      view: card
+      view: community/custom_card
       columns: '1'
 
   - block: collection
@@ -95,7 +95,7 @@ sections:
       order: desc
       page_type: Awards
     design:
-      view: community/custom_card
+      view: compact
       columns: '1'
 
   - block: collection
