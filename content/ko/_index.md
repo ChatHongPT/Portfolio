@@ -60,9 +60,10 @@ sections:
       spacing:
         padding: ['20px', '0', '20px', '0']
 
-  - block: collection
+  
+    - block: collection
     content:
-      title: 수상 경력
+      title: 보안 컨퍼런스
       subtitle:
       text:
       count: 5
@@ -74,14 +75,14 @@ sections:
         tag: ''
       offset: 0 
       order: desc
-      page_type: Qualifications
+      page_type: awards
     design:
       view: community/custom_card1
       columns: '1'
 
-  - block: collection
+    - block: collection
     content:
-      title: 수상 경력
+      title: 보안 컨퍼런스
       subtitle:
       text:
       count: 5
@@ -95,7 +96,26 @@ sections:
       order: desc
       page_type: project
     design:
-      view: community/custom_card1
+      view: card
+      columns: '1'
+    
+    - block: collection
+    content:
+      title: 보안 컨퍼런스
+      subtitle:
+      text:
+      count: 5
+      filters:
+        author: ''
+        category: ''
+        exclude_featured: false
+        publication_type: ''
+        tag: ''
+      offset: 0 
+      order: desc
+      page_type: post
+    design:
+      view: community/custom_card
       columns: '1'
   
   - block: slider
