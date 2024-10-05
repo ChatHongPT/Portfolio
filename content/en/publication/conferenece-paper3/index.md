@@ -1,5 +1,5 @@
 ---
-title: '문서파일 포렌식(iso 변조)'
+title: 'Document file forensics (iso modulation)'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -9,7 +9,7 @@ authors:
 
 # Author notes (optional)
 author_notes:
-  - 'BCG Lab 학부연구생'
+  - 'BCG Lab undergraduate student'
 
 date: '2024-04-03T00:00:00Z'
 doi: ''
@@ -28,53 +28,54 @@ publication_short: In *BCG*
 
 abstract: |
  
-  1. 바탕화면에 Windows.iso 파일을 다운로드한다.
+  1. Download the Windows.iso file to your desktop.
 
-  2. Windows.iso 파일을 마운트한다.
-  Windows.iso 파일을 가상 드라이브에 마운트를 하면 해당 드라이브(F:)에 윈도우 설치 파일이 생성된다.
-  바탕화면 -> Windows.iso 파일에서 마우스 우클릭 -> 가상 드라이브에 마운트 -> (F:)ESD-ISO 생성  
+  2. Mount the Windows.iso file.
+  Mounting a Windows.iso file to a virtual drive creates a Windows installation file on that drive (F:).
+  Desktop -> Right-click on Windows.iso file -> mount to virtual drive -> (F:) Create ESD-ISO
 
-  3) 원하는 윈도우 버전의 인덱스 번호를 확인한다.
-  3-1) install.esd 파일에서는 여러 가지 버전의 윈도우를 포함하기 때문에 추출하려는 윈도우 버전의 index 번호를 확인한다.
-  3-2) 명령 프롬프트를 권리자 권한으로 실행시킨다.
-  3-3) 윈도우 버전의 인덱스 번호를 확인한다.
+  3) Check the index number of the desired window version.
+  3-1) Because the install.esd file contains different versions of windows, check the index number of the version of window you want to extract.
+  3-2) Execute the command prompt as a right holder.
+  3-3) Check the index number of the Windows version.
   dism /get-wiminfo/wimfile:F:\sources\install.esd
 
-  4. wim 파일을 추출한다.
-  4-1)사전에 wim 파일을 생성할 임의의 폴더 (c:\whs_windows)를 만들어준다. 4-2)인덱스: 3(windows 10 pro)를 추출한다.
-  4-3)wim 파일을 추출한다.
+  4. Extract the wim file.
+  4-1) Create a random folder (c:\whs_windows) to generate wim files in advance. 4-2) Extract index: 3 (windows 10 pro).
+  4-3) Extract the wim file.
   dism/export0image /sourceimagefile:F:\sources\install.esd /sourceindex:3 /destinationimagefile:c:\whs_windows\install.wim /compress:max
 
-  4-4) 탐색기를 통해 확인한다.
-  - 탐색기에서 확인하면 whs_windows 폴더에 install.wim 파일이 잘 추출되었음을 알 수 있다. wim 파일도 압축 이미지 파일이고, 추출된 install.wim 파일의 크기는 4.55GB이다.
+  4-4) Check through the explorer.
+  - If you check it in the explorer, you can see that the install.wim file was extracted well in the whs_windows folder. The wim file is also a compressed image file, and the size of the extracted install.wim file is 4.55GB.
 
-  5) 설치한 dism gui를 통해 wim을 마운트한다.
+  5) Mount the wim through the installed dismgui.
 
-  6) mount해 놓은 wim 파일을 열어보면 windows에서 자주 보았던 디렉토리 구조들을 확인할 수 있다.
+  6) If you open the mounted wim file, you can see the directory structures you often saw in Windows.
 
-  7)레지스토리 편집기를 연다.
+  7)Open the Registry Editor.
 
-  8) 악성코드를 심는다면 주로 HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run에 심는다. 그래서 HKEY_CURRENT_USER에 wim파일의 software파일을 하이브로드한다.
+  8) If malicious code is planted, it is usually planted in HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run. So, I hybridize the software file of the wim file to HKEY_CURRENT_USER.
 
-  9)cmd에서 where명령을 통해 shutdown.exe 위치를 찾는다.
+  9)Find the location of shutdown.exe in cmd through the where command.
 
-  10) 레지스토리 편집기(레지스토리 값 변조)를 통해 HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run에 shutdown 문자열값을 생성한다.
-  -windows로그인 했을 때, 5초 후 시스템이 무한 재부팅되는 악성코드를 제작해야 되기 때문에 기준과 알맞은 데이터를 작성한다.
+  10) Create a shutdown string value in HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run through a registry editor (register value modulation).
+  -When you log in to Windows, write data that meets the criteria because the system has to produce malicious code that reboots indefinitely after 5 seconds.
   “C:\Windows\System32\shutdown.exe” /r /f /t 5
 
-  11) 하이브 언로드를 한 뒤 dismout wim을 한다.
-  - 과제 실습 중에 dism gui를 닫아버려서 다시 실습하느라 whs_windows 폴더 대신 wim 폴더로 대체했다.
+  11) Hive offload and do a disout wim.
+  - I closed the dismgui during the task practice so I replaced it with the wim folder instead of the whs_windows folder while I was practicing again.
 
-  12)UltralSO로 아까 다운로드 받은 windows.iso를 연다.
+  12)Open windows.iso I downloaded earlier with UltralSO.
 
-  13)해당 iso 파일에서 install.esd 파일을 삭제하고 dismount했던 install.esd를 추가한 뒤 파일을 다른 이름으로 저장한다.
+  13)Delete the install.esd file from the corresponding iso file, add the install.esd that you discovered, and save the file as a different name.
 
-  14) 해당 iso 파일을 가상 머신으로 실행시킨다.
+  14) Run the corresponding iso file as a virtual machine.
 
-  15) 과제 조건과 마찬가지로 windows 로그인을 했을 대, 5초 뒤 시스템이 무한 재부팅됨을 확인할 수 있었다.
+  15) As with the task condition, when I logged in to Windows, I was able to confirm that the system rebooted indefinitely after 5 seconds.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: let's modulate iso files to create window infinite routing through document file forensics practice
+
 
 tags:
 - forensic

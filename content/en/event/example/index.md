@@ -58,7 +58,7 @@ Kill Chain: A strategy to neutralize missiles with a preemptive strike to defend
 - Preemptive defense techniques to mitigate and eliminate threats by analyzing cyber attack processes and threats posed to the organization at each attack stage and the attacker's purpose, activities, etc
 ![Instrusion Attempts 1, 2, and 3 Indicators](cyber.png "Instrusion Attempts 1, 2, and 3 Indicators")
 
-Cyber Kill Chain 7단계
+Cyber Kill Chain 7 Stage
 
 Reconnaissance for Target Analysis
 
