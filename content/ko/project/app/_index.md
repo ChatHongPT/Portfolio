@@ -42,10 +42,10 @@ slides: ""
 2. **게임을 통한 참여 유도**: 다트 게임 요소를 추가하여 사용자들의 재미와 참여도를 극대화
 3. **커뮤니티 형성**: SNS와의 연동을 통해 사용자들 간의 커뮤니티를 구축
 
-#### 어플 기능
+#### Figma UI
 
 ![호남人 Figma UI](image.png "Figma UI")
 
-[Figma 호남人 어플 UI 보기](https://www.figma.com/proto/zgJnR8RUeicGwNvybSDeu7/%ED%98%B8%EB%82%A8%E4%BA%BA-Application-Project?node-id=0-1&t=5VVK146w1fVzKsnI-1)
+[Figma 호남人 Application UI](https://www.figma.com/proto/zgJnR8RUeicGwNvybSDeu7/%ED%98%B8%EB%82%A8%E4%BA%BA-Application-Project?node-id=0-1&t=5VVK146w1fVzKsnI-1)
 
 > 자세한 UI는 Figma에서 확인하세요!
