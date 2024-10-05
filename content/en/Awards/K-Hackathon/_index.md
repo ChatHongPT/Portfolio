@@ -1,13 +1,14 @@
 ---
-title: K-HACKATHON 11(Application 개발 부문) - 우수상(한국콘텐츠학회장상)
+title: K-HACKATHON 11 (Application Development Division) - Excellence Award (President of the Korean Content Association)
 date: 2023-11-03
-organizations: 과학기술정보통신부
+organizations: Ministry of Science and ICT
 ---
-Elemental Coding Master(코딩 입문자를 위한 게임) 콘텐츠 개발
+Development of Elemental Coding Master content
 <!--more-->
 
-전북대학교 IT 정보공학과, 컴퓨터공학부 소속 학생으로 구성된 "JBDev"팀(최홍석, 허완, 홍건하)이 "제11회 전국 K-HACKATHON 11 대회"에서 우수상(상금 200만원)을 수상했다.
+The "JBDev" team (Choi Hong-seok, Heo Wan, and Hong Geon-ha), consisting of students from Chonbuk National University's IT Information Engineering Department and Computer Engineering Department, won the Excellence Award (prize of 2 million won) at the "11th National K-HACKATHON 11 Competition."
 
-과학기술정보통신부가 주최하고 (사)소프트웨어교육혁신센터가 주관한 국내 최대 규모 해커톤 경진대회로 국민생활 및 지역사회의 특수한 문제 해결을 위한 디지털 신기술 융합 솔루션 기반의 챌린지다.
+It is the largest hackathon competition in Korea hosted by the Ministry of Science and ICT and organized by the Software Education Innovation Center, and is a challenge based on digital new technology convergence solutions to solve special problems in people's lives and communities.
 
-JBDev 팀이 출품한 "Elemental Coding Master(코딩 입문자를 위한 게임)" 콘텐츠는 Unity 엔진과 C# 프로그래밍 언어를 활용하여 만들었고, 다양한 코딩 작업을 수행하며, 프로그래밍 기본 원칙 및 로직을 습득하는 게임으로 심사위원의 좋은 평가를 받았다.
+The "Elemental Coding Master" content submitted by the JBDev team was created using the Unity engine and C# programming language, and was well-received by the judges as a game that performs various coding tasks and acquires basic programming principles and logic.
+

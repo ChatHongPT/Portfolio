@@ -1,17 +1,17 @@
 ---
-title: 화이트햇 스쿨 2기 우수 프로젝트 선정 - 한국정보기술연구원장상
+title: Selection of the 2nd Outstanding Project for White Hat School - Korea Information Technology Research Institute Director's Award
 date: 2024-09-26
-organization: 한국정보기술연구원
+organization: KITRI
 ---
-저사양 환경에서 패킷을 모니터링하여 악성 패킷을 분류하고 차단하는 보안 장비 개발
+Development of security equipment to monitor packets in low-spec environments to classify and block malicious packets
 
 
 <!--more-->
 
-전북대학교 IT 정보공학과, 건국대학교, 배제대학교, 강릉원주대학교, 조선대학교, 한밭대학교 학생 소속으로 구성된 "N/A"팀(최홍석, 함준형, 강성원, 김도현, 임정훈, 라민우, 지도환)이 화이트햇 스쿨 2기 우수 프로젝트에 선정됐다.
+The "N/A" team (Choi Hong-seok, Ham Joon-hyung, Kang Sung-won, Kim Do-hyun, Lim Jung-hoon, Ra Min-woo, and Ji-hwan) consisting of students from Chonbuk National University's IT Information Engineering Department, Konkuk University, Jejudo University, Gangneung Wonju University, Chosun University, and Hanbat University were selected as the second best white hat school project.
 
-화이트햇 스쿨은 정보보안 인재로 성장하기를 희망하는 만 24세 초급 인재를 대상으로 최신 정보보안 입문 교육 프로그램과 기술 멘토링 기회를 제공하여 중급 인재로 성장할 수 있도록 돕는 정보보안 인재 양성 프로그램이다. 이번에 수료한 2기까지 621명의 청년 화이트 해커를 배출했다. 
+White Hat School is an information security talent training program that provides the latest information security introductory education program and technology mentoring opportunities for 24-year-old beginner talents who want to grow into information security talent to help them grow into intermediate level talent. It has produced 621 young white hackers by the second term of the program.
 
-N/A 팀은 저사양 환경에서 패킷을 모니터링하여 악성 패킷을 분류하고 차단하는 보안 장비 개발을 하여 화이트햇 스쿨 2기 멘토들과 KITRI 연구원에게 좋은 평가를 받았다.
+The N/A team developed security equipment that monitors packets in low-spec environments to classify and block malicious packets, which was well received by White Hat School 2nd Mentors and KITRI researchers.
 
-이번 화이트햇 스쿨 2기 졸업식 현장에는 류제명 과기정통부 실장, 임종인 대통령실 사이버특별보좌관, 신용석 대통령실 사이버안보비서관, 미바에 다이스케 주일본대사관 부대사, 문헌일 구로구청장, 오후정 신호기술연구소장, 변재선 한국사이버국군발전협회장, 원광호 대한민국헌정회 감사, 이세창 동서화합미래위원회 이사장 등을 비롯하여 각계각층 인사가 참석했다. 
+Ryu Je-myung, head of the Ministry of Science and ICT, Lim Jong-in, special cyber adviser to the president's office, Shin Yong-seok, cyber security secretary to the president's office, Daisuke Mibae, deputy ambassador to Japan, Guro-gu Office Director Mun Moon-il, Chung Ho-jung, head of the Signal Technology Research Institute, Byun Jae-sun, chairman of the Korea Cyber Military Development Association, Won Kwang-ho, auditor of the Korean Constitutional Association, and Lee Se-chang, chairman of the East-West Harmony Future Committee, attended the graduation ceremony.

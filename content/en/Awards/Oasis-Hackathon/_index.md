@@ -1,17 +1,17 @@
 ---
-title: Oasis Hackathon(Application 개발 부문) - 최우수상
+title: Oasis Hackathon (Application Development) - Best Award
 date: 2024-08-27
-organization: 광주정보문화산업진흥원장
+organization: Director of Gwangju Information Culture Industry Promotion Agency
 ---
-SNS에서 유행하는 다트 게임 여행을 활용하여 호남지역 관광의 활성화를 위한 어플 개발
+Developing an application to revitalize tourism in Honam area by utilizing dart game travel that is popular on SNS
 
 
 <!--more-->
 
-전북대학교 IT 정보공학과 소속 학생으로 구성된 "IJ20"팀(최홍석, 허완, 이진규, 조대인)이 "제 5회 오아시스 해커톤 대회"에서 최우수상(상금 200만원)을 수상했다.
+The "IJ20" team (Choi Hong-seok, Heo Wan, Jinkyu Lee, and Cho Dae-in), consisting of students from Chonbuk National University's IT information engineering department, won the grand prize (2 million won in prize money) at the "5th Oasis Hackathon".
 
-ICT이노베이션스퀘어 확산사업 일환으로 추진 된 오아시스 해커톤 대회는 IT에 관심 있는 호남 지역 대학생의 커뮤니티 활성화를 위해, 대학생들이 주체적으로 개최하는 네트워킹 해커톤 대회로 2020년 시작해 올해로 5회째를 맞았다.
- 
-이번 대회는 교육, 안전, 사회·환경, 관광, 창업 등 호남지역의 문제 해결을 위한 AI·ICT 서비스 개발을 주제로 진행됐다. 85명의 학생이 기획, 개발, 디자인 직군으로 구성된 팀을 이뤄 대회에 참가했다.
+The Oasis Hackathon, which was promoted as part of the ICT Innovation Square expansion project, began in 2020 and marks its fifth anniversary this year as a networking Hackathon competition held independently by university students in Honam to revitalize the community of university students interested in IT.
 
-IJ20 팀이 출품한 "호남人" 어플은 Kotlin 언어를 활용하여 만들었고, SNS에서 유행하는 다트 게임 여행을 활용하여 호남지역 관광의 활성화를 위한 어플을 개발하여 심사위원의 좋은 평가를 받았다.
+The competition was held under the theme of developing AI and ICT services to solve problems in Honam, including education, safety, social and environment, tourism, and start-ups. 85 students participated in the competition with a team of planning, development and design jobs.
+
+The "Honam People" application submitted by the IJ20 team was created using the Kotlin language, and developed an application to revitalize tourism in Honam using dart game travel, which is popular on SNS, and received good reviews from the judges.

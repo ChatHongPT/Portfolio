@@ -8,18 +8,18 @@ sections:
   - block: markdown
     content:
       title: |
-        <mark>"호기심으로"</mark>
+        <mark>"out of curiosity"</mark>
       text: |
-        ### 개발에 몰입하는 개발자  
-        ### 최홍석 입니다.
+        ### Developers Immersed in Development 
+        ### I'm Hongseok Choi.
         
-        “노력은 기회를 만들고, 기회는 경험을 만들고, 경험은 지식을 만든다." 
+        "Effort creates opportunity, opportunity creates experience, experience creates knowledge."
         
-        라는 가치관으로 무엇이든 경험하려고 합니다.  
-        꾸준한 노력 덕에 교내대회에서 수상하여 외부에서 다양한 부스 운영한 경험이 있습니다.  
+        I'm trying to experience anything with this value.
+        Thanks to my steady efforts, I won a suburban competition and have experience running various booths outside.  
         
-        사용자 경험을 중요하게 생각합니다.  
-        기준에 부합하여 학교와 외부 프로젝트에 몰두한 경험이 있습니다.
+        We value the user experience.
+        I have the experience of being immersed in school and external projects in line with the standards.
         
     image: 
       filename: images/coding.jpg
@@ -33,20 +33,20 @@ sections:
     content:
       title: 📞 contact
       text: |
-        연락을 원하시면 아래 정보를 확인하세요.
+        If you would like to contact us, please check the information below.
       email: suk924600@naver.com
       phone: 010-2421-9246
       address:
-        street: 전북대학교 공과대학 7호관 302호
-        city: 전주시
-        region: 전라북도
+        street: Chonbuk National University Engineering College Building 7, 302
+        city: Jeonju City
+        region: Jeollabuk-do
         postcode: '54896'
-        country: 대한민국
+        country: Korea
         country_code: KO
       coordinates:
         latitude: '35.84601324617979'
         longitude: '127.13444961966684'
-      directions: 전북대학교 공과대학 7호관에서 사무실 302호
+      directions: Chonbuk National University Engineering College Building 7, 302
       office_hours:
         - 'Monday 10:00 to 13:00'
         - 'Wednesday 09:00 to 10:00'

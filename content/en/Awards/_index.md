@@ -1,5 +1,5 @@
 ---
-title: 🏆 수상 경력
+title: 🏆 An award-winning career
 
 # Listing view
 view: compact

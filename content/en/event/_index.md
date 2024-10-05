@@ -1,5 +1,5 @@
 ---
-title: 👮🏻‍♀️ 보안 분석 자료
+title: 👮🏻‍♀️ Security Analysis Data
 
 # Listing view
 view: compact
