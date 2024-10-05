@@ -93,7 +93,7 @@ abstract: |
   -연결 Time out 설정으로 일정 시간 이상 연속된 데이터를 보내지 않는 접속자에 대해 차단
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: 공격 대상 서버에 HTTP 요청 패킷의 Header를 변조해서 동시에 많은 HTTP 연결을 유지하여 서버의 가용량을 침해하는 DoS 공격 기법
 
 tags:
 - DoS
