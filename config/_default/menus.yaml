@@ -36,11 +36,11 @@ main:
     url: publication
     weight: 610
   - parent: Security Info
-    name: Security Analysis
+    name: Security Conference
     url: post
     weight: 620
   - parent: Security Info
-    name: Security Conference
+    name: Security Analysis
     url: event
     weight: 630
 
