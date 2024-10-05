@@ -95,7 +95,7 @@ sections:
       order: desc
       page_type: Awards
     design:
-      view: community/custom_card
+      view: card
       columns: '1'
 
   - block: collection
@@ -114,7 +114,7 @@ sections:
       order: desc
       page_type: post
     design:
-      view: community/custom_card
+      view: card
       columns: '1'
   
   - block: slider
