@@ -69,12 +69,12 @@ slides: ""
 
 #### flowchart:
 
-![flowchart](flowchart.png "Flowchart")
+![flowchart](flowchart.png)
 
 #### WBS(Work Breakdown Structure):
-![Project WBS](wbs.png "WBS")
+![Project WBS](wbs.png)
 
 #### Project
-![WHS 2nd Project](project.png "Project")
+![WHS 2nd Project](project.png)
 
 
