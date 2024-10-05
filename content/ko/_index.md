@@ -62,7 +62,7 @@ sections:
 
   - block: collection
     content:
-      title: 보안 컨퍼런스
+      title: 🖥️ 보안 컨퍼런스
       subtitle: ""
       text: ""
       count: 5
@@ -74,31 +74,14 @@ sections:
         tag: ""
       offset: 0
       order: desc
-      page_type: content/ko/awards
+      page_type: post
     design:
-      view: community/custom_card1
+      view: community/custom_card
       columns: "1"
 
   - block: collection
     content:
-      title: 퍼블릭
-      count: 3
-      filters:
-        author: ''
-        category: ''
-        exclude_featured: false
-        publication_type: ''
-        tag: ''
-      offset: 0
-      order: desc
-      page_type: publication
-    design:
-      view: community/custom_card
-      columns: '2'
-
-  - block: collection
-    content:
-      title: 보안 컨퍼런스
+      title: 👮🏻‍♀️ 보안 분석 자료  
       subtitle: ""
       text: ""
       count: 5
@@ -117,7 +100,7 @@ sections:
     
   - block: collection
     content:
-      title: 보안 컨퍼런스
+      title: 📜 세미나 자료
       subtitle: ""
       text: ""
       count: 5
@@ -129,7 +112,7 @@ sections:
         tag: ""
       offset: 0
       order: desc
-      page_type: post
+      page_type: publication
     design:
       view: community/custom_card
       columns: "1"
