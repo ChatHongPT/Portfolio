@@ -1,5 +1,5 @@
 ---
-title: Recent & Upcoming Events
+title: 👮🏻‍♀️ 보안 분석 자료
 
 # Listing view
 view: compact
