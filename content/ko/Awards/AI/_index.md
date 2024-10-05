@@ -1,6 +1,8 @@
 ---
 title: Ai 활용 아이디어 경진 대회 - 대상
 date: 2024-02-02
+image:
+  focal_point: 'top'
 ---
 
 AI를 활용한 어종 판별 프로그램 '어종 찾어종'
