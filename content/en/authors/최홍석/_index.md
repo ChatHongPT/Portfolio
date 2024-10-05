@@ -1,6 +1,6 @@
 ---
 # Display name
-title: HONG SEOK CHOI
+title: 최홍석
 
 # Full Name (for SEO)
 first_name: Hong Seok
