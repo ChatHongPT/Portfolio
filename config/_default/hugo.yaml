@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: 최홍석 # Website name
-baseURL: 'https://Hongttochi.github.io/' # Website URL
+baseURL: 'https://hongttochi.github.io/' # Website URL
 
 # Site title and description
 title: "동네 보안 연구소"
