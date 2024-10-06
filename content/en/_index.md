@@ -59,7 +59,63 @@ sections:
       columns: '1'
       spacing:
         padding: ['20px', '0', '20px', '0']
+        
+  - block: collection
+    content:
+      title: 🖥️ 보안 컨퍼런스
+      subtitle: ""
+      text: ""
+      count: 5
+      filters:
+        author: ""
+        category: ""
+        exclude_featured: false
+        publication_type: ""
+        tag: ""
+      offset: 0
+      order: desc
+      page_type: post
+    design:
+      view: community/custom_card
+      columns: "1"
 
+  - block: collection
+    content:
+      title: 👮🏻‍♀️ Security Analysis Data
+      subtitle: ""
+      text: ""
+      count: 5
+      filters:
+        author: ""
+        category: ""
+        exclude_featured: false
+        publication_type: ""
+        tag: ""
+      offset: 0
+      order: desc
+      page_type: event
+    design:
+      view: card
+      columns: "1"
+    
+  - block: collection
+    content:
+      title: 📜 Seminar Data
+      subtitle: ""
+      text: ""
+      count: 5
+      filters:
+        author: ""
+        category: ""
+        exclude_featured: false
+        publication_type: ""
+        tag: ""
+      offset: 0
+      order: desc
+      page_type: publication
+    design:
+      view: community/custom_card
+      columns: "1" 
   
   - block: slider
     content:
