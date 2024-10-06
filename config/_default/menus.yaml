@@ -24,12 +24,13 @@ main:
     name: awards
     url: /awards/
     weight: 320
-
-
-  # 프로젝트
-  - name: Projects
+  - parent: Achievement
+    name: Projects
     url: /project/
     weight: 330
+
+
+  
 
   # 알림 메뉴
   - name: Security Info
