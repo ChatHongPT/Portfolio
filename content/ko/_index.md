@@ -146,6 +146,11 @@ sections:
                 brightness: 0.4
             position: center
             color: '#000'
+          link:
+            icon: cloud
+            icon_pack: fab
+            text: 참여하기
+            url: ../contact/
 
         - title: 🔐 BCG LAB 연구실원 모집
           content: <br><br>💡 본 연구실에서 보안에 관심과 열정이 있는 연구생들을 모집합니다.
@@ -157,6 +162,11 @@ sections:
                 brightness: 0.4
             position: center
             color: '#000'
+          link:
+            icon: cloud
+            icon_pack: fab
+            text: 참여하기
+            url: ../contact/
     design:
       slide_height: '500px'
       slide_width: '110%'
