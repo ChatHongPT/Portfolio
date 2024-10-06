@@ -4,10 +4,11 @@ main:
   - name: Main
     url: people
     weight: 200
-  - name: Home
+  - parent: Main
+    name: Home
     url: 
     weight: 210
-  - parent: Introduce
+  - parent: Main
     name: Developer Profile
     url: /author/최홍석/
     weight: 220
