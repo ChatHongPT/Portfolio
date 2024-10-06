@@ -1,17 +1,16 @@
 main:
 
-  - name: Home
-    url: 
-    weight: 190
-
   # Introduce
-  - name: Introduce
+  - name: Main
     url: people
     weight: 200
+  - name: Home
+    url: 
+    weight: 210
   - parent: Introduce
     name: Developer Profile
     url: /author/최홍석/
-    weight: 210
+    weight: 220
 
   # Achievement
   - name: Achievement
