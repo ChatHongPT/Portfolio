@@ -152,7 +152,7 @@ sections:
           align: center
           background:
             image:
-              filename: welcome.jpg
+              filename: welcome.png
               filters:
                 brightness: 0.4
             position: center
