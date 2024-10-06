@@ -18,18 +18,18 @@
 ## 🏆 Achievement
 1) **Qualifications**
 이 화면은 관리자의 수료증/자격증 페이지입니다. 이 페이지에서는 관리자가 이수한 주요 과정 및 자격증을 확인할 수 있습니다.
-<img width="1552" alt="스크린샷 2024-10-06 오전 10 20 16" src="https://github.com/user-attachments/assets/2baac792-05df-43a0-ac18-52b2305e8387">
+    <img width="1552" alt="스크린샷 2024-10-06 오전 10 20 16" src="https://github.com/user-attachments/assets/2baac792-05df-43a0-ac18-52b2305e8387">
 
 2) **awards**
 이 화면은 수상 경력 페이지로, 관리자의 주요 수상 내역을 확인할 수 있습니다. 각 수상 경력에는 사진과 함께 관련 설명이 제공됩니다.
-<img width="1552" alt="스크린샷 2024-10-06 오전 10 21 15" src="https://github.com/user-attachments/assets/b369201f-8e69-4d8a-bc4c-24226e27ea73">
+    <img width="1552" alt="스크린샷 2024-10-06 오전 10 21 15" src="https://github.com/user-attachments/assets/b369201f-8e69-4d8a-bc4c-24226e27ea73">
 
 ## 🎯 **Projects**
 1. 저사양 환경에서의 DDoS 공격 완화 보안 장비 개발
 2. 호남지역 관광 활성화를 위한 다트 게임 기반 여행 어플 개발
 3. 구음장애 발음 특성을 고려한 개인화된 음성 인식 프로그램 개발
 4. 보안 인식 제고를 위한 교육 프로그램 설계
-<img width="1552" alt="스크린샷 2024-10-06 오전 10 23 05" src="https://github.com/user-attachments/assets/49987b68-133b-4208-a925-fd0c15f66150">
+    <img width="1552" alt="스크린샷 2024-10-06 오전 10 23 05" src="https://github.com/user-attachments/assets/49987b68-133b-4208-a925-fd0c15f66150">
 
 ## 💡 **Security Info**
 1) **Seminar Data**
@@ -38,7 +38,7 @@
   1-2) Slow HTTP DoS 공격에 대한 분석: 2024년 BCG에서 발표한 Slow HTTP DoS 공격에 대한 분석 자료입니다. PDF, 인증, 소스코드를 제공하여 자세한 정보를 얻을 수 있습니다.
   1-3) ChatGPT의 보안 위협 분석: 2024년 BCG에서 발표한 ChatGPT의 보안 위협에 대한 분석 자료입니다. PDF 및 인증 자료를 통해 관련 정보를 확인할 수 있습니다.
   이 페이지에서는 관리자의 다양한 연구 및 분석 자료들을 한눈에 볼 수 있으며, 각 연구의 PDF 파일이나 비디오 자료를 다운로드하거나 인증을 받을 수 있는 기능을 제공합니다.
-<img width="1552" alt="스크린샷 2024-10-06 오전 10 29 19" src="https://github.com/user-attachments/assets/795fb395-e1d3-4d09-a0fe-198ff257e854">
+    <img width="1552" alt="스크린샷 2024-10-06 오전 10 29 19" src="https://github.com/user-attachments/assets/795fb395-e1d3-4d09-a0fe-198ff257e854">
 
 
 2) **Security Conference**
@@ -51,25 +51,36 @@
    각 이벤트에는 간단한 설명과 함께 날짜와 읽기 소요 시간이 표시되어 있어 편리하게 정보를 확인할 수 있습니다.
 <img width="1552" alt="스크린샷 2024-10-06 오전 10 29 50" src="https://github.com/user-attachments/assets/564ff641-6252-4a16-800b-2cf6ed96b42e">
 
-3)
+3) **Security Analysis Data**
+     이 화면은 보안 분석 자료 페이지로, 보안 관련 주요 사건 및 위협에 대한 분석 세미나 정보를 제공합니다. 주요 항목은 다음과 같습니다:
+     최신 보안 동향 키워드를 기반으로 하는 보안 사고 사례 분석: 2024년 4월 17일 오후 1시부터 3시까지 진행되는 세미나로, 최신 보안 동향을 키워드로 한 보안 사고 분석을 다룹니다.
+     LockBit 3.0 랜섬웨어 조직의 해킹 위협: 2024년 4월 17일 같은 시간대에 진행되는 세미나로, LockBit 3.0 랜섬웨어 조직에 대한 해킹 위협 분석을 제공합니다.
+     Cyber Kill Chain: 2021년 11월 11일에 진행된 세미나로, Cyber Kill Chain의 구조와 보안 위협 대응에 대해 다룹니다.
+    이 페이지는 보안에 관심 있는 연구자나 전문가들에게 최신 보안 위협과 사고 분석 자료를 제공하며, 다양한 세미나를 통해 깊이 있는 보안 지식을 습득할 수 있는 기회를 제공합니다.
+   
+    <img width="1552" alt="스크린샷 2024-10-06 오전 10 33 48" src="https://github.com/user-attachments/assets/38ebc7d7-f505-42eb-88f7-1eb04562ceee">
 
-<img width="1552" alt="스크린샷 2024-10-06 오전 10 28 39" src="https://github.com/user-attachments/assets/f93b275b-9785-4e53-8da3-fc7d9282960f">
+## 💡 **Information** 
+  1) About me
+      이 화면은 선도자(ENFJ-T) 관리자의 성격 유형에 대한 설명을 담고 있는 페이지입니다. ENFJ-T 유형은 타인을 돕고 이끌며, 사회와 주변 사람들에게 긍정적인 영향을 미치고자 하는 열정을 지닌 성격 유형입니다.
 
+      - 성격 설명: ENFJ는 이상주의적 성향을 지니고 있으며, 삶에서 위대한 사명을 위해 최선을 다합니다. 어려운 상황에서도 올바른 일을 하기 위해 노력하며, 타인에게 선한 영향력을 미치고자 합니다.
+      - 주요 특징: 타고난 지도자로서 많은 선도자는 정치인, 코치, 교사로 활동하며, 이들의 열정과 카리스마는 직업뿐만 아니라 인간관계에서도 강한 영향력을 미칩니다.
+      - 성격 카드: 오른쪽에 ENFJ-T 성격 유형을 대표하는 일러스트와 함께 "청중을 사로잡고 의욕을 불어넣는 카리스마 넘치는 지도자"라는 설명이 적혀 있습니다.
+    <img width="1552" alt="스크린샷 2024-10-06 오전 10 34 54" src="https://github.com/user-attachments/assets/203449a3-ee11-4658-b16b-b8054313302c">
 
+  2) Contact
+      - 이 화면은 Contact 페이지로, 방문자가 최홍석님과 연락할 수 있는 방법을 제공합니다
+      - 이 페이지는 관리자와 소통을 원하는 사람들에게 유용한 정보를 제공하며, 문의하기 편리한 인터페이스를 갖추고 있습니다.
 
-
-
+<img width="1552" alt="스크린샷 2024-10-06 오전 10 37 49" src="https://github.com/user-attachments/assets/0d99546b-f5e3-417f-ae83-b74b5e570f24">
 
 ## 🤝 연락처 및 소셜 미디어
-- 📧 Email: zmfltmvl@jbnu.ac.kr
-- 💼 LinkedIn: [이진규의 LinkedIn](https://www.linkedin.com/in/%EC%A7%84%EA%B7%9C-%EC%9D%B4-b5027b331/)
-- 🌐 Blog: [이진규의 Blog](https://velog.io/@zmfltmvl/posts)
+- 📧 Email: suk924600@naver.com
+- 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/%ED%99%8D%EC%84%9D-%EC%B5%9C-089b23302/)
+- 🌐 Instagram: [Instagram](https://www.instagram.com/hongttochi/)
 
-## 📚 프로젝트 및 활동
-- ALPS 동아리에서 자료구조 및 알고리즘 Basic 스터디 진행 중
-- 웹 해킹 기초 스터디 멘토 활동
-- 화이트햇 스쿨 수료
 
-> "보안은 단순한 기술이 아닌, 우리 모두의 책임입니다. 저는 이 신념을 바탕으로 더 안전한 디지털 세상을 만들어가고자 합니다."
-
-항상 새로운 도전과 협력의 기회를 환영합니다. 함께 논의하고 성장할 수 있는 기회가 있다면 언제든 연락 주세요!
+> 당신을 위한 언더그라운드 해킹그룹 HS랩에 초대합니다.
+> 여러분의 잠재력을 HS랩의 많은 해커들과 함께해서 빛낼 수 있을거라 장담합니다.
+> 앞으로도 즐겁고 신나는 싱글벙글 해킹보안의 길을 함께합시다.
