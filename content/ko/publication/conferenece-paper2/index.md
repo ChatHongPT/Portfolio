@@ -56,8 +56,8 @@ abstract: |
   이외에도 사용자가 ChatGPT에 입력한 정보들이 사용자 컨텐츠로 OpenAPI 서버에 저장되기 때문에 개인정보나 회사 기밀정보들과 같은 민감정보들이 유출될 가능성이 높다.
   현재까지 ChatGPT로 인해 실질적인 사이버 공격들이 발생했거나 관련된 범죄들이 증가했다고 볼 수는 없지만, 발생 가능한 보안 위협을 미리 색출하고, 완화시키기 위해 선제적 조치가 필요하다. ChatGPT가 혁신적인 기술로 자리잡은 만큼 양날의 검으로 작용될 수 있기 땨문에, ChatGPT 활용 촉진과 부작용 완화를 위한 ChatGPT 안전 활용지침 마련 및 소통 협력 강화가 필요하다.
   # Summary. An optional shortened abstract.
-  
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+
+summary: ChatGPT가 생성하는 결과물과 악성 코드를 활용하여 사이버 공격에 이용되고 있음
 
 tags:
 - chatgpt
@@ -71,7 +71,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://github.com/ChatHongPT/ChatHongPT.github.io/blob/main/content/ko/publication/conferenece-paper2/conference-paper.pdf'
+url_pdf: 'https://github.com/ChatHongPT/ChatHongPT.github.io/blob/2a7f807de4d2696ccf3166f4ad7fc0911635b04a/content/ko/publication/conferenece-paper2/conference-paper.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
