@@ -147,8 +147,8 @@ sections:
             position: center
             color: '#000'
           link:
-            icon: cloud
-            icon_pack: fab
+            icon: book
+            icon_pack: fas
             text: 참여하기
             url: ../contact/
 
@@ -163,8 +163,8 @@ sections:
             position: center
             color: '#000'
           link:
-            icon: cloud
-            icon_pack: fab
+            icon: running
+            icon_pack: fas
             text: 참여하기
             url: ../contact/
     design:

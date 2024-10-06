@@ -146,6 +146,11 @@ sections:
                 brightness: 0.4
             position: center
             color: '#000'
+          link:
+            icon: book
+            icon_pack: fas
+            text: Join Us
+            url: ../contact/
 
         - title: 🔐 Recruitment of BCGLAB Laboratories
           content: <br><br>💡 We are recruiting researchers who are interested in and passionate about security in this laboratory.
@@ -157,6 +162,11 @@ sections:
                 brightness: 0.4
             position: center
             color: '#000'
+          link:
+            icon: running
+            icon_pack: fas
+            text: Join Us
+            url: ../contact/
     design:
       slide_height: '500px'
       slide_width: '110%'
