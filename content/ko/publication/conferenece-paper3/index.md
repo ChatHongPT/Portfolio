@@ -74,7 +74,7 @@ abstract: |
   15) 과제 조건과 마찬가지로 windows 로그인을 했을 대, 5초 뒤 시스템이 무한 재부팅됨을 확인할 수 있었다.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: 문서파일 포렌식 실습을 통해 iso 파일을 변조시켜 윈도우 무한 루팅을 만들자
 
 tags:
 - forensic
