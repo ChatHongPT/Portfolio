@@ -1,4 +1,4 @@
-# [Hugo Theme를 활용한 동네 보안 연구소 웹사이트 구축하기](https://chathongpt.github.io/) 👨🏻‍💻
+## [Hugo_Blog Portfolio Project](https://chathongpt.github.io/) 👨🏻‍💻
 
 <img width="1552" alt="스크린샷 2024-10-06 오후 12 57 04" src="https://github.com/user-attachments/assets/0d076615-39a1-467d-8b73-80446b8b8ebf">
 
